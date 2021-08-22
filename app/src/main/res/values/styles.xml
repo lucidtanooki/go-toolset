@@ -1,0 +1,36 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <style name="HelpItemPaddingVertical" parent="@android:style/TextAppearance.Medium">
+        <item name="android:padding">8dp</item>
+    </style>
+
+    <style name="HelpItemHorizontal" parent="@android:style/TextAppearance.Medium">
+        <item name="android:paddingRight">8dp</item>
+        <item name="android:paddingLeft">8dp</item>
+        <item name="android:layout_gravity">center_vertical</item>
+    </style>
+
+    <style name="HelpItemPaddingVerticalHeading" parent="@android:style/TextAppearance.Large">
+        <item name="android:padding">8dp</item>
+        <item name="android:paddingTop">16dp</item>
+    </style>
+
+    <style name="ProgressSDBar" parent="@style/Widget.AppCompat.ProgressBar.Horizontal">
+        <item name="android:padding">0dp</item>
+        <item name="android:layout_margin">0dp</item>
+    </style>
+
+    <style name="AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar"/>
+
+    <style name="PopupOverlay" parent="ThemeOverlay.AppCompat.Light"/>
+
+
+</resources>

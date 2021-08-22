@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".IVCalcActivity"
+    android:padding="0dp">
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:gravity="bottom">
+
+        <TableLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:padding="8dp">
+
+            <TableRow
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content">
+
+                <TextView
+                    android:layout_width="0dp"
+                    android:layout_height="48dp"
+                    android:textAppearance="?android:attr/textAppearanceMedium"
+                    android:text="@string/iv_trainer_lvl"
+                    android:id="@+id/textView12"
+                    android:layout_weight="2"/>
+
+                <SeekBar
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/seekbar_lvl"
+                    android:layout_weight="3"/>
+
+                <TextView
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:textAppearance="?android:attr/textAppearanceMedium"
+                    android:text="10"
+                    android:id="@+id/text_lvl"
+                    android:layout_weight="1"/>
+
+            </TableRow>
+
+            <TableRow
+                android:layout_width="match_parent"
+                android:layout_height="match_parent">
+
+                <TextView
+                    android:layout_width="0dp"
+                    android:layout_height="48dp"
+                    android:textAppearance="?android:attr/textAppearanceMedium"
+                    android:text="@string/iv_cp"
+                    android:id="@+id/textView16"
+                    android:layout_weight="2"/>
+
+                <SeekBar
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/seekbar_cp"
+                    android:layout_weight="3"/>
+
+                <TextView
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:textAppearance="?android:attr/textAppearanceMedium"
+                    android:text="10"
+                    android:id="@+id/text_cp"
+                    android:layout_weight="1"/>
+            </TableRow>
+
+            <TableRow
+                android:layout_width="match_parent"
+                android:layout_height="match_parent">
+
+                <TextView
+                    android:layout_width="0dp"
+                    android:layout_height="48dp"
+                    android:textAppearance="?android:attr/textAppearanceMedium"
+                    android:text="@string/iv_hp"
+                    android:id="@+id/textView18"
+                    android:layout_weight="2"/>
+
+                <SeekBar
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/seekbar_hp"
+                    android:layout_weight="3"/>
+
+                <TextView
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:textAppearance="?android:attr/textAppearanceMedium"
+                    android:text="10"
+                    android:id="@+id/text_hp"
+                    android:layout_weight="1"/>
+            </TableRow>
+
+            <TableRow
+                android:layout_width="match_parent"
+                android:layout_height="match_parent">
+
+                <TextView
+                    android:layout_width="0dp"
+                    android:layout_height="48dp"
+                    android:textAppearance="?android:attr/textAppearanceMedium"
+                    android:text="@string/iv_stardust"
+                    android:id="@+id/textView20"
+                    android:layout_weight="2"/>
+
+                <SeekBar
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/seekbar_sd"
+                    android:enabled="false"
+                    android:layout_weight="3"/>
+
+                <TextView
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:textAppearance="?android:attr/textAppearanceMedium"
+                    android:text="10"
+                    android:id="@+id/text_sd"
+                    android:layout_weight="1"/>
+            </TableRow>
+
+        </TableLayout>
+
+        <Spinner
+            android:layout_width="match_parent"
+            android:layout_height="48dp"
+            android:id="@+id/spinner_choose_poke"
+            android:spinnerMode="dialog"
+            android:entries="@array/poke_list"
+            android:layout_gravity="center"
+            />
+
+        <LinearLayout
+            android:orientation="horizontal"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            >
+
+            <TextView
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:textAppearance="?android:attr/textAppearanceMedium"
+                android:text="min IV"
+                android:id="@+id/text_minIV"
+                android:layout_weight="1"
+                android:textAlignment="center"
+                android:textColor="#ef5350"/>
+
+            <TextView
+                android:layout_width="0dp"
+                android:layout_height="48dp"
+                android:textAppearance="?android:attr/textAppearanceLarge"
+                android:text="@string/iv_avg"
+                android:id="@+id/text_acerageIV"
+                android:layout_weight="3"
+                android:textAlignment="center"
+                android:textColor="#ff8a65"/>
+
+            <TextView
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:textAppearance="?android:attr/textAppearanceMedium"
+                android:text="max IV"
+                android:id="@+id/text_maxIV"
+                android:layout_weight="1"
+                android:textAlignment="center"
+                android:textColor="#4caf50"/>
+        </LinearLayout>
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="48dp"
+            android:text="@string/iv_calc_button"
+            android:id="@+id/button_calc_iv"
+            android:clickable="false"
+            android:onClick="onCalculateIV"/>
+
+    </LinearLayout>
+
+    <com.devadvance.circularseekbar.CircularSeekBar
+        android:id="@+id/circularSeekBar1"
+        android:layout_width="match_parent"
+        app:start_angle="180"
+        app:end_angle="0"
+        android:layout_gravity="center_horizontal"
+        app:circle_progress_color="#009688"
+        app:pointer_color="#009688"
+        app:pointer_halo_color="#88009688"
+        android:layout_marginTop="60dp"
+        android:layout_height="280dp"/>
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/imageView12"
+        android:layout_gravity="center_horizontal"
+        android:adjustViewBounds="true"
+        android:src="@drawable/iv_logo"
+        android:scaleType="centerInside"/>
+</RelativeLayout>

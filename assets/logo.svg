@@ -1,0 +1,1314 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="400"
+   height="400"
+   viewBox="0 0 400 400.00001"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.92.1 unknown"
+   sodipodi:docname="logo.svg">
+  <defs
+     id="defs4">
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath4298">
+      <rect
+         style="opacity:1;fill:#5c3566;fill-opacity:1;stroke:none;stroke-width:12;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.99607843"
+         id="rect4300"
+         width="32"
+         height="32"
+         x="120"
+         y="1340.3622"
+         rx="0"
+         ry="0" />
+    </clipPath>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="2.8284271"
+     inkscape:cx="210.6117"
+     inkscape:cy="-261.7964"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="true"
+     inkscape:window-width="1920"
+     inkscape:window-height="1052"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     units="px"
+     inkscape:object-paths="true"
+     inkscape:snap-intersection-paths="true"
+     inkscape:object-nodes="true"
+     inkscape:snap-smooth-nodes="true"
+     showguides="true"
+     inkscape:guide-bbox="true">
+    <inkscape:grid
+       type="xygrid"
+       id="grid4163"
+       empspacing="4" />
+    <sodipodi:guide
+       position="248,-364.00001"
+       orientation="1,0"
+       id="guide4353"
+       inkscape:locked="false" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Ebene 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-652.36216)">
+    <rect
+       style="opacity:1;fill:#eeeeec;fill-opacity:1;stroke:none;stroke-width:12;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.99607843"
+       id="rect4302"
+       width="180"
+       height="31.999977"
+       x="180"
+       y="1328.3622"
+       inkscape:export-filename="/home/georg/Software/Entwicklung/Android/GOToolSet/app/src/main/res/drawable/type_logo.png"
+       inkscape:export-xdpi="360"
+       inkscape:export-ydpi="360" />
+    <rect
+       style="opacity:1;fill:#d3d7cf;fill-opacity:0.99607843;stroke:none;stroke-width:32;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect4136"
+       width="1023.9998"
+       height="500"
+       x="616.00012"
+       y="18.36216"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       inkscape:export-filename="/home/georg/Software/Entwicklung/Android/GOToolSet/app/src/main/res/drawable/logo.png" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#555753;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="1188.8217"
+       y="482.06552"
+       id="text4165"><tspan
+         sodipodi:role="line"
+         x="1188.8217"
+         y="482.06552"
+         id="tspan4169"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:88.64958191px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Medium';fill:#555753">GO<tspan
+   style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Light';fill:#555753"
+   id="tspan4175">toolset</tspan></tspan></text>
+    <rect
+       inkscape:export-ydpi="90.000008"
+       inkscape:export-xdpi="90.000008"
+       y="650.17664"
+       x="25.714302"
+       height="160"
+       width="720"
+       id="rect4177"
+       style="opacity:1;fill:#ffffff;fill-opacity:0.99607843;stroke:none;stroke-width:32;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       inkscape:export-filename="/home/georg/Software/Entwicklung/Android/GOToolSet/app/src/main/res/drawable/type_guide_logo.png" />
+    <text
+       id="text4179"
+       y="705.25446"
+       x="48.42485"
+       style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#555753;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"
+       inkscape:export-filename="/home/georg/Software/Entwicklung/Android/GOToolSet/app/src/main/res/drawable/type_guide_logo.png"
+       inkscape:export-xdpi="90.000008"
+       inkscape:export-ydpi="90.000008"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:41.39845276px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Medium';fill:#555753"
+         id="tspan4181"
+         y="705.25446"
+         x="48.42485"
+         sodipodi:role="line">GO<tspan
+   id="tspan4183"
+   style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Light';fill:#555753">toolset</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#555753;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="460.3866"
+       y="784.46649"
+       id="text4187"
+       inkscape:export-filename="/home/georg/Software/Entwicklung/Android/GOToolSet/app/src/main/res/drawable/type_guide_logo.png"
+       inkscape:export-xdpi="90.000008"
+       inkscape:export-ydpi="90.000008"><tspan
+         sodipodi:role="line"
+         x="460.3866"
+         y="784.46649"
+         id="tspan4189"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:55.28317642px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Medium';fill:#555753"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Light';fill:#555753"
+           id="tspan4191"><tspan
+   style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Medium';fill:#555753"
+   id="tspan4193">TYPE</tspan>guide</tspan></tspan></text>
+    <rect
+       style="opacity:1;fill:#eb5757;fill-opacity:1;stroke:none;stroke-width:32;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect4165"
+       width="200"
+       height="47.999977"
+       x="0"
+       y="1004.3622" />
+    <rect
+       y="1004.3622"
+       x="200"
+       height="47.999977"
+       width="200"
+       id="rect4169"
+       style="opacity:1;fill:#729fcf;fill-opacity:1;stroke:none;stroke-width:32;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <path
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:32;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 120.99997,1007.3621 c -0.42222,4.6443 -1.05554,5.2777 -4.64435,8.8664 l -23.643885,23.6441 3.377699,3.3776 c 0.467808,0.4678 0.467808,1.221 0,1.689 l -0.844426,0.8443 c -0.467808,0.4678 -1.221039,0.4678 -1.688848,0 l -3.377698,-3.3776 -6.755399,6.7552 c -0.467808,0.4678 -1.597651,0.092 -2.533273,-0.8443 l -0.844424,-0.8444 c -0.93562,-0.9357 -1.312234,-2.0655 -0.844428,-2.5332 l 6.755402,-6.7554 -3.377701,-3.3778 c -0.467809,-0.4678 -0.467809,-1.221 0,-1.6889 l 0.844424,-0.8444 c 0.467812,-0.4678 1.221043,-0.4678 1.688851,0 l 3.377699,3.3776 23.643887,-23.6439 c 3.58881,-3.5889 4.22212,-4.2222 8.86646,-4.6443 z"
+       id="rect4173"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:#ffffff;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 300,1007.3622 c -3.23077,6.4615 -15.34615,9.6923 -20.19231,9.6923 -0.80769,21 8.88462,32.3077 20.19231,32.3077 11.30769,0 21,-11.3077 20.19231,-32.3077 -4.84616,0 -16.96154,-3.2308 -20.19231,-9.6923 z m 0,4.9234 c 2.33373,2.3076 5.34416,3.9491 8.36561,5.1577 3.11689,1.2468 6.18387,2.0306 8.82073,2.3939 -0.0612,8.6634 -2.08148,15.2083 -5.04572,19.5345 -3.26359,4.7631 -7.49639,6.9616 -12.14062,6.9616 -4.64423,0 -8.87703,-2.1985 -12.14063,-6.9616 -2.96423,-4.3262 -4.98451,-10.8711 -5.04571,-19.5345 2.63686,-0.3633 5.70384,-1.1471 8.82073,-2.3939 3.02145,-1.2086 6.03188,-2.8501 8.36561,-5.1577 z m 0,1.3306 c -2.35181,2.1027 -5.17127,3.6363 -7.99095,4.7642 -2.85415,1.1416 -5.62079,1.8502 -8.13214,2.2677 0.1845,8.076 2.09502,14.183 4.8154,18.1533 3.1154,4.5468 6.98209,6.5223 11.30769,6.5223 l 0,-31.7075 z"
+       id="path4185"
+       inkscape:connector-curvature="0" />
+    <rect
+       style="opacity:1;fill:#888a85;fill-opacity:0.99607843;stroke:none;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect4168"
+       width="48"
+       height="48"
+       x="0"
+       y="1116.3622"
+       ry="0"
+       rx="0"
+       inkscape:export-filename="/home/georg/Software/Entwicklung/Android/GOToolSet/app/src/main/res/drawable/type_normal.png"
+       inkscape:export-xdpi="180"
+       inkscape:export-ydpi="180" />
+    <path
+       sodipodi:type="star"
+       style="opacity:1;fill:#ffffff;fill-opacity:0.99607843;stroke:none;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="path4170"
+       sodipodi:sides="6"
+       sodipodi:cx="-160"
+       sodipodi:cy="956.36218"
+       sodipodi:r1="107.62899"
+       sodipodi:r2="53.814495"
+       sodipodi:arg1="0.83798123"
+       sodipodi:arg2="1.36158"
+       inkscape:flatsided="false"
+       inkscape:rounded="0"
+       inkscape:randomized="0"
+       d="m -88.000002,1036.3622 -60.823088,-27.359 -44.45894,49.7128 L -200,992.36218 -265.28203,978.71601 -211.17691,939.72117 -232,876.36218 l 60.82309,27.35899 44.45894,-49.71281 6.71797,66.35382 65.28203,13.64617 -54.10512,38.99485 z"
+       transform="matrix(0.14137365,-0.04596996,0.04596996,0.14137365,2.6558486,997.80253)" />
+    <rect
+       rx="0"
+       ry="0"
+       y="1172.3622"
+       x="0"
+       height="48"
+       width="48"
+       id="rect4172"
+       style="opacity:1;fill:#e9b96e;fill-opacity:0.99607843;stroke:none;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       inkscape:export-filename="/home/georg/Software/Entwicklung/Android/GOToolSet/app/src/main/res/drawable/type_fighting.png"
+       inkscape:export-xdpi="180"
+       inkscape:export-ydpi="180" />
+    <path
+       style="opacity:1;fill:#ffffff;fill-opacity:0.99607843;stroke:none;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 27.200002,1183.5622 a 12.8,12.8 0 0 0 -9.925,4.7296 c -0.381542,-0.916 -1.062047,-1.5296 -1.848438,-1.5296 l -5.253125,0 c -1.2041744,0 -2.1734374,1.4272 -2.1734374,3.2 l 0,12.8 c 0,1.7728 0.969263,3.2 2.1734384,3.2 l 5.253124,0 c 0.786772,0 1.467007,-0.6145 1.848438,-1.5313 a 12.8,12.8 0 0 0 9.925,4.7313 12.8,12.8 0 0 0 12.8,-12.8 12.8,12.8 0 0 0 -12.8,-12.8 z m 3.064062,13.9187 a 7.1681452,6.5164956 28.222812 0 1 0.278125,6.3328 7.1681452,6.5164956 28.222812 0 1 -9.398437,2.3516 7.1681452,6.5164956 28.222812 0 1 -3.171875,-3.1938 9.1230936,7.8197947 28.222812 0 0 11.50625,-2.6875 9.1230936,7.8197947 28.222812 0 0 0.785937,-2.8031 z"
+       id="path4188"
+       inkscape:connector-curvature="0" />
+    <rect
+       style="opacity:1;fill:#d3d7cf;fill-opacity:0.99607843;stroke:none;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect4200"
+       width="48"
+       height="48"
+       x="0"
+       y="1060.3622"
+       ry="0"
+       rx="0"
+       inkscape:export-filename="/home/georg/Software/Entwicklung/Android/GOToolSet/app/src/main/res/drawable/type_any.png"
+       inkscape:export-xdpi="180"
+       inkscape:export-ydpi="180" />
+    <rect
+       style="opacity:1;fill:#888a85;fill-opacity:0.99607843;stroke:none;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect4202"
+       width="48"
+       height="48"
+       x="0"
+       y="1228.3622"
+       ry="0"
+       rx="0"
+       inkscape:export-filename="/home/georg/Software/Entwicklung/Android/GOToolSet/app/src/main/res/drawable/type_flying.png"
+       inkscape:export-xdpi="180"
+       inkscape:export-ydpi="180" />
+    <path
+       style="fill:#ffffff;fill-rule:evenodd;stroke:none;stroke-width:1.26491106px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 40,1238.8726 c -27.380011,6.1248 -19.437638,20.8793 -32.0000001,26.9792 6.7203811,-2.6746 8.4214071,-6.4538 18.0757861,-7.136 -1.854679,-2.8514 0.804122,-5.8859 2.525868,-9.324 -4.130335,2.2557 -6.585477,4.8649 -8.357827,7.554 l -1.029955,0.1482 c 1.989846,-3.1267 4.862252,-6.2231 10.015262,-8.8016 0.729687,-1.1506 1.720721,-2.3474 3.027045,-3.6007 -6.276618,2.5743 -9.54348,5.8095 -11.755969,9.1665 l -1.029955,0.1482 c 2.471665,-3.884 6.302016,-7.7209 14.185582,-10.5749 1.693233,-1.4427 3.78614,-2.9583 6.344163,-4.5589 z"
+       id="path4204"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccccccccccc" />
+    <rect
+       rx="0"
+       ry="0"
+       y="1280.3622"
+       x="0"
+       height="48"
+       width="48"
+       id="rect4217"
+       style="opacity:1;fill:#75507b;fill-opacity:0.99607843;stroke:none;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       inkscape:export-filename="/home/georg/Software/Entwicklung/Android/GOToolSet/app/src/main/res/drawable/type_poison.png"
+       inkscape:export-xdpi="180"
+       inkscape:export-ydpi="180" />
+    <path
+       style="opacity:1;fill:#ffffff;fill-opacity:0.99607843;stroke:none;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 24.000041,1288.3623 c -7.683962,0 -13.913043,6.229 -13.913043,13.913 0.0054,4.3737 2.067265,8.4903 5.566576,11.1141 -3.3e-5,0.01 -0.0014,0.011 -0.0014,0.016 l 0,1.3913 c 0,1.5414 1.241043,2.7827 2.782609,2.7827 l 4.173913,0 0,0.6956 c 0,0.3854 0.310261,0.6957 0.695652,0.6957 l 1.391304,0 c 0.385391,0 0.695652,-0.3103 0.695652,-0.6957 l 0,-0.6956 1.391305,0 0,2.0869 c 0,0.3854 0.310261,0.6957 0.695652,0.6957 l 1.391304,0 c 0.385392,0 0.695652,-0.3103 0.695652,-0.6957 l 0,-2.0869 c 1.541566,0 2.782609,-1.2413 2.782609,-2.7827 l 0,-1.3913 c 0,-0.01 -0.0013,-0.013 -0.0014,-0.02 3.498231,-2.623 5.559847,-6.7378 5.566576,-11.1101 0,-7.684 -6.229081,-13.913 -13.913043,-13.913 z m -6.956522,6.9565 c 3.073585,0 5.565218,2.4916 5.565218,5.5652 0,3.0736 -2.491633,5.5652 -5.565218,5.5652 -3.073584,0 -5.565217,-2.4916 -5.565217,-5.5652 0,-3.0736 2.491633,-5.5652 5.565217,-5.5652 z m 13.913044,0 c 3.073584,0 5.565217,2.4916 5.565217,5.5652 0,3.0736 -2.491633,5.5652 -5.565217,5.5652 -3.073585,0 -5.565218,-2.4916 -5.565218,-5.5652 0,-3.0736 2.491633,-5.5652 5.565218,-5.5652 z"
+       id="path4223"
+       inkscape:connector-curvature="0" />
+    <rect
+       style="opacity:1;fill:#c17d11;fill-opacity:0.99607843;stroke:none;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect4252"
+       width="48"
+       height="48"
+       x="0"
+       y="1332.3622"
+       ry="0"
+       rx="0"
+       inkscape:export-filename="/home/georg/Software/Entwicklung/Android/GOToolSet/app/src/main/res/drawable/type_ground.png"
+       inkscape:export-xdpi="180"
+       inkscape:export-ydpi="180" />
+    <path
+       style="opacity:1;fill:#ffffff;fill-opacity:0.99607843;stroke:none;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 9.6,1345.1622 c -0.8864,0 -1.6,0.7136 -1.6,1.6 0,0.8864 0.7136,1.6 1.6,1.6 l 28.8,0 c 0.8864,0 1.6,-0.7136 1.6,-1.6 0,-0.8864 -0.7136,-1.6 -1.6,-1.6 l -28.8,0 z m 3.2,6.4 c -0.8864,0 -1.6,0.7136 -1.6,1.6 0,0.8864 0.7136,1.6 1.6,1.6 l 22.4,0 c 0.8864,0 1.6,-0.7136 1.6,-1.6 0,-0.8864 -0.7136,-1.6 -1.6,-1.6 l -22.4,0 z m 6.4,6.4 c -0.8864,0 -1.6,0.6813 -1.6,1.5281 l 0,0.1437 c 0,0.8469 0.7136,1.5282 1.6,1.5282 l 9.6,0 c 0.8864,0 1.6,-0.6813 1.6,-1.5282 l 0,-0.1437 c 0,-0.8468 -0.7136,-1.5281 -1.6,-1.5281 l -9.6,0 z m 4.8,6.4 c -0.8864,0 -1.6,0.7136 -1.6,1.6 0,0.8864 0.7136,1.6 1.6,1.6 0.8864,0 1.6,-0.7136 1.6,-1.6 0,-0.8864 -0.7136,-1.6 -1.6,-1.6 z"
+       id="rect4256"
+       inkscape:connector-curvature="0" />
+    <rect
+       rx="0"
+       ry="0"
+       y="1388.3622"
+       x="0"
+       height="48"
+       width="48"
+       id="rect4265"
+       style="opacity:1;fill:#555753;fill-opacity:0.99607843;stroke:none;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       inkscape:export-filename="/home/georg/Software/Entwicklung/Android/GOToolSet/app/src/main/res/drawable/type_rock.png"
+       inkscape:export-xdpi="180"
+       inkscape:export-ydpi="180" />
+    <path
+       style="fill:#ffffff;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 29.647059,1401.0681 -8.470588,4.7058 -5.647059,1.8823 L 8,1418.9503 c 0,0 16.941176,4.7059 17.882353,4.7059 0.941176,0 14.117647,-3.7647 14.117647,-3.7647 l -5.647059,-15.0588 -4.705882,-3.7646 z m 0,1.8822 2.823529,2.8236 -6.588235,2.8235 -2.823529,-1.8823 6.588235,-3.7648 z m -13.176471,5.6471 7.529412,0.9412 1.882353,12.2353 -15.058824,-3.7646 5.647059,-9.4119 z"
+       id="path4269"
+       inkscape:connector-curvature="0" />
+    <rect
+       style="opacity:1;fill:#c7e754;fill-opacity:0.99607843;stroke:none;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect4277"
+       width="48"
+       height="48"
+       x="56"
+       y="1060.3622"
+       ry="0"
+       rx="0"
+       inkscape:export-filename="/home/georg/Software/Entwicklung/Android/GOToolSet/app/src/main/res/drawable/type_bug.png"
+       inkscape:export-xdpi="180"
+       inkscape:export-ydpi="180" />
+    <path
+       style="opacity:1;fill:#ffffff;fill-opacity:0.99607843;stroke:none;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="M 80 416 C 77.0545 416 74.666043 418.38848 74.666016 421.33398 C 74.667916 421.69188 74.705886 422.04814 74.779297 422.39844 C 69.859908 424.49144 66.666344 429.31992 66.666016 434.66602 C 66.665979 442.02982 72.636177 448 80 448 C 87.363823 448 93.334021 442.02982 93.333984 434.66602 C 93.330284 429.24592 90.045853 424.36877 85.025391 422.32617 C 85.092431 422.35117 85.157973 422.37634 85.224609 422.40234 C 85.296439 422.05094 85.333949 421.69258 85.333984 421.33398 C 85.334233 418.38828 82.945695 416 80 416 z M 79.970703 421.33398 L 80 421.33398 C 79.887954 421.33398 79.775965 421.34261 79.664062 421.34961 C 79.765991 421.33961 79.868647 421.33798 79.970703 421.33398 z M 80 424 C 81.577132 424 83.13294 424.35851 84.556641 425.03711 C 84.195896 425.50351 84.000566 426.07642 84 426.66602 C 83.999982 428.13882 85.193244 429.33398 86.666016 429.33398 C 87.422471 429.33398 88.143514 429.01057 88.648438 428.44727 C 89.955795 430.25817 90.66107 432.43252 90.666016 434.66602 C 90.662716 436.90062 89.957619 439.07833 88.650391 440.89062 C 88.145565 440.32523 87.423985 440.0014 86.666016 440 C 85.193283 440 84.000037 441.19332 84 442.66602 C 84.0014 443.25652 84.198132 443.83057 84.560547 444.29688 C 83.257853 444.91733 81.843227 445.25229 80.404297 445.31055 C 80.755345 444.07136 81 441.27709 81 438 L 81 432 C 81 427.56801 80.554 424 80 424 z M 80 424 C 79.446 424 79 427.56801 79 432 L 79 438 C 79 441.27709 79.244655 444.07136 79.595703 445.31055 C 78.157028 445.25438 76.741596 444.91602 75.439453 444.29492 C 75.800858 443.82922 75.998402 443.25552 76 442.66602 C 75.999963 441.19332 74.806717 440 73.333984 440 C 72.577529 440 71.856487 440.32342 71.351562 440.88672 C 70.044185 439.07582 69.338909 436.89952 69.333984 434.66602 C 69.337384 432.43152 70.042401 430.25566 71.349609 428.44336 C 71.854435 429.00876 72.576015 429.33258 73.333984 429.33398 C 74.806756 429.33398 76.000018 428.13882 76 426.66602 C 75.999264 426.07522 75.801674 425.50196 75.439453 425.03516 C 76.864155 424.35716 78.422186 424.0035 80 424 z M 74 432 C 72.527267 432 71.334021 433.19332 71.333984 434.66602 C 71.333966 436.13882 72.527228 437.33398 74 437.33398 C 75.472772 437.33398 76.666034 436.13882 76.666016 434.66602 C 76.665979 433.19332 75.472733 432 74 432 z M 86 432 C 84.527267 432 83.334021 433.19332 83.333984 434.66602 C 83.333966 436.13882 84.527228 437.33398 86 437.33398 C 87.472772 437.33398 88.666034 436.13882 88.666016 434.66602 C 88.665979 433.19332 87.472733 432 86 432 z "
+       transform="translate(0,652.36216)"
+       id="path4281" />
+    <rect
+       rx="0"
+       ry="0"
+       y="1116.3622"
+       x="56"
+       height="48"
+       width="48"
+       id="rect4310"
+       style="opacity:1;fill:#736672;fill-opacity:0.99607843;stroke:none;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       inkscape:export-filename="/home/georg/Software/Entwicklung/Android/GOToolSet/app/src/main/res/drawable/type_ghost.png"
+       inkscape:export-xdpi="180"
+       inkscape:export-ydpi="180" />
+    <path
+       style="opacity:1;fill:#ffffff;fill-opacity:0.99607843;stroke:none;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 80,1124.3622 a 9.6,9.6 0 0 0 -9.6,9.6 l 0,22.4 3.2,-3.2 3.2,3.2 3.2,-3.2 3.2,3.2 3.2,-3.2 3.2,3.2 0,-22.4 a 9.6,9.6 0 0 0 -9.6,-9.6 z m -4,4.8 a 2.4,2.4 0 0 1 2.4,2.4 2.4,2.4 0 0 1 -2.4,2.4 2.4,2.4 0 0 1 -2.4,-2.4 2.4,2.4 0 0 1 2.4,-2.4 z m 8,0 a 2.4,2.4 0 0 1 2.4,2.4 2.4,2.4 0 0 1 -2.4,2.4 2.4,2.4 0 0 1 -2.4,-2.4 2.4,2.4 0 0 1 2.4,-2.4 z"
+       id="path4312"
+       inkscape:connector-curvature="0" />
+    <rect
+       style="opacity:1;fill:#98b2cd;fill-opacity:0.99607843;stroke:none;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect4329"
+       width="48"
+       height="48"
+       x="56"
+       y="1172.3622"
+       ry="0"
+       rx="0"
+       inkscape:export-filename="/home/georg/Software/Entwicklung/Android/GOToolSet/app/src/main/res/drawable/type_steel.png"
+       inkscape:export-xdpi="180"
+       inkscape:export-ydpi="180" />
+    <path
+       style="opacity:1;fill:#ffffff;fill-opacity:0.99607843;stroke:none;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 64,1180.3622 0,32 32,0 0,-32 -32,0 z m 2,2 6,0 -6,6 0,-6 z m 10,0 8,0 -18,18 0,-8 10,-10 z m 10,0 8,0 0,2 -26,26 -2,0 0,-8 20,-20 z m 8,8 0,2 -18,18 -2,0 20,-20 z m 0,4 0,16 -16,0 16,-16 z"
+       id="rect4331"
+       inkscape:connector-curvature="0" />
+    <rect
+       rx="0"
+       ry="0"
+       y="1228.3622"
+       x="56"
+       height="48"
+       width="48"
+       id="rect4347"
+       style="opacity:1;fill:#cc0000;fill-opacity:0.99607843;stroke:none;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       inkscape:export-filename="/home/georg/Software/Entwicklung/Android/GOToolSet/app/src/main/res/drawable/type_fire.png"
+       inkscape:export-xdpi="180"
+       inkscape:export-ydpi="180" />
+    <path
+       style="opacity:1;fill:#ffffff;fill-opacity:0.99607843;stroke:none;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 79.999991,1236.3621 c 0.586129,7.0335 -1.660679,10.2898 -3.316761,14.3338 -0.359369,-1.8689 -0.839733,-3.7377 -1.774148,-5.6066 0.420011,5.0402 -1.34086,7.1724 -2.450284,10.1733 a 8.7272727,8.7272727 0 0 0 -1.18608,4.3722 8.7272727,8.7272727 0 0 0 8.727273,8.7273 8.7272727,8.7272727 0 0 0 0.129261,0 c 2.224008,-0.5769 4.115408,-2.2397 4.62358,-4.5895 0.575458,-2.6609 -1.010219,-5.6007 -3.725853,-6.0895 -1.91768,-0.3451 -4.042832,0.8386 -4.275568,2.7884 -0.06943,0.5815 0.109168,1.2696 0.448864,1.7486 0.339697,0.4789 0.758303,0.7428 1.333807,0.7428 a 1.0910182,1.0910182 0 1 1 0.0043,2.1819 c -1.331212,0 -2.448593,-0.7183 -3.117897,-1.662 -0.669344,-0.9437 -0.973335,-2.113 -0.835227,-3.2699 0.199042,-1.6671 1.142955,-2.9744 2.419033,-3.7954 l 0.0014,0 c 1.276041,-0.8212 2.883009,-1.1568 4.409091,-0.8821 4.035632,0.7263 6.29038,4.9061 5.470171,8.6989 -0.09076,0.4196 -0.222536,0.8162 -0.372159,1.2017 a 8.7272727,8.7272727 0 0 0 2.214489,-5.7969 8.7272727,8.7272727 0 0 0 -0.963069,-3.9659 c -0.743285,-3.5265 -0.910054,-7.0531 -2.673295,-10.5796 0.256354,3.0763 -0.310044,5.0554 -1.035511,6.8225 a 8.7272727,8.7272727 0 0 0 -0.122159,-0.067 c -1.048479,-5.1651 -1.352756,-10.326 -3.933258,-15.487 z"
+       id="path4351"
+       inkscape:connector-curvature="0" />
+    <rect
+       style="opacity:1;fill:#3465a4;fill-opacity:0.99607843;stroke:none;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect4369"
+       width="48"
+       height="48"
+       x="56"
+       y="1280.3622"
+       ry="0"
+       rx="0"
+       inkscape:export-filename="/home/georg/Software/Entwicklung/Android/GOToolSet/app/src/main/res/drawable/type_water.png"
+       inkscape:export-xdpi="180"
+       inkscape:export-ydpi="180" />
+    <path
+       style="opacity:1;fill:#ffffff;fill-opacity:0.99607843;stroke:none;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 80,1288.3622 c 0,7.3225 -5.574912,12.3186 -8.225,17.4718 a 9.6,9.6 0 0 0 -1.3375,4.175 c -0.02289,0.2494 -0.0375,0.5001 -0.0375,0.7532 a 9.6,9.6 0 0 0 9.6,9.6 9.6,9.6 0 0 0 9.6,-9.6 9.6,9.6 0 0 0 -0.04375,-0.8407 C 89.118531,1304.4454 84.564025,1297.4902 80,1288.3622 Z m -3.2,22.4 a 3.2,3.2 0 0 1 3.2,3.2 3.2,3.2 0 0 1 -3.2,3.2 3.2,3.2 0 0 1 -3.2,-3.2 3.2,3.2 0 0 1 3.2,-3.2 z"
+       id="path4371"
+       inkscape:connector-curvature="0" />
+    <rect
+       rx="0"
+       ry="0"
+       y="1332.3622"
+       x="56"
+       height="48"
+       width="48"
+       id="rect4379"
+       style="opacity:1;fill:#4e9a06;fill-opacity:0.99607843;stroke:none;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       inkscape:export-filename="/home/georg/Software/Entwicklung/Android/GOToolSet/app/src/main/res/drawable/type_grass.png"
+       inkscape:export-xdpi="180"
+       inkscape:export-ydpi="180" />
+    <path
+       style="fill:#ffffff;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 80.000058,1340.3622 c -11.512936,11.3336 -12.604127,25.0569 -0.490384,29.3621 l -0.330129,2.6379 1.641026,-0.8206 -0.304487,-1.8269 c 12.086316,-4.3156 10.988713,-18.027 -0.516026,-29.3525 z m 0,2.4775 c 4.717191,5.0842 7.299327,10.4748 7.464744,14.8895 0.179038,4.778 -1.984151,8.4499 -7.459936,10.4214 -5.476876,-1.9688 -7.644833,-5.6368 -7.469551,-10.4118 0.162122,-4.4166 2.743982,-9.811 7.464743,-14.8991 z m 0,1.9471 0,21.992 c 0.0016,7e-4 0.0032,10e-4 0.0048,0 2.28256,-0.9017 3.867289,-2.0675 4.833333,-3.4823 1.033366,-1.5135 1.479568,-3.3306 1.397436,-5.5225 -0.137774,-3.6769 -2.300937,-8.3972 -6.235577,-12.9888 z"
+       id="path4381"
+       inkscape:connector-curvature="0" />
+    <rect
+       style="opacity:1;fill:#ffcf00;fill-opacity:0.99607843;stroke:none;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect4413"
+       width="48"
+       height="48"
+       x="56"
+       y="1388.3622"
+       ry="0"
+       rx="0"
+       inkscape:export-filename="/home/georg/Software/Entwicklung/Android/GOToolSet/app/src/main/res/drawable/type_electric.png"
+       inkscape:export-xdpi="180"
+       inkscape:export-ydpi="180" />
+    <path
+       style="fill:#ffffff;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 73.6,1396.3622 12.8,0 -6.4,16 6.4,-3.2 -6.4,19.2 0,-9.6 -3.2,3.2 z"
+       id="path4415"
+       inkscape:connector-curvature="0" />
+    <rect
+       rx="0"
+       ry="0"
+       y="1060.3622"
+       x="112"
+       height="48"
+       width="48"
+       id="rect4417"
+       style="opacity:1;fill:#87c1ff;fill-opacity:0.99607843;stroke:none;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       inkscape:export-filename="/home/georg/Software/Entwicklung/Android/GOToolSet/app/src/main/res/drawable/type_ice.png"
+       inkscape:export-xdpi="180"
+       inkscape:export-ydpi="180" />
+    <path
+       style="opacity:1;fill:#ffffff;fill-opacity:0.99607843;stroke:none;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 132,1068.3622 0,1.3333 2.66667,2.6667 0,3.3333 -1.10417,0 -0.81511,0.8151 -1.15234,0 -0.77994,0.7799 -2.35808,-2.3567 0,-3.7709 -0.94271,-0.9427 -0.94271,0.9427 0,3.7709 -3.77083,0 -0.94271,0.9427 0.94271,0.9427 3.77083,0 2.35678,2.3581 -0.77995,0.7799 0,1.1524 -0.81511,0.8151 0,1.1041 -3.33333,0 -2.66667,-2.6666 -1.33333,0 0,1.3333 2.66667,2.6667 -2.66667,2.6666 0,1.3334 1.33333,0 2.66667,-2.6667 3.33333,0 0,1.1042 0.81511,0.8151 0,1.1523 0.77995,0.78 -2.35678,2.358 -3.77083,0 -0.94271,0.9427 0.94271,0.9427 3.77083,0 0,3.7709 0.94271,0.9427 0.94271,-0.9427 0,-3.7709 2.35808,-2.3567 0.77994,0.7799 1.15234,0 0.81511,0.8151 1.10417,0 0,3.3334 -2.66667,2.6666 0,1.3334 1.33333,0 2.66667,-2.6667 2.66667,2.6667 1.33333,0 0,-1.3334 -2.66667,-2.6666 0,-3.3334 1.10417,0 0.81511,-0.8151 1.15234,0 0.77994,-0.7799 2.35808,2.3567 0,3.7709 0.94271,0.9427 0.94271,-0.9427 0,-3.7709 3.77083,0 0.94271,-0.9427 -0.94271,-0.9427 -3.77083,0 -2.35678,-2.358 0.77995,-0.78 0,-1.1523 0.81511,-0.8151 0,-1.1042 3.33333,0 2.66667,2.6667 1.33333,0 0,-1.3334 -2.66667,-2.6666 2.66667,-2.6667 0,-1.3333 -1.33333,0 -2.66667,2.6666 -3.33333,0 0,-1.1041 -0.81511,-0.8151 0,-1.1524 -0.77995,-0.7799 2.35678,-2.3581 3.77083,0 0.94271,-0.9427 -0.94271,-0.9427 -3.77083,0 0,-3.7709 -0.94271,-0.9427 -0.94271,0.9427 0,3.7709 -2.35808,2.3567 -0.77994,-0.7799 -1.15234,0 -0.81511,-0.8151 -1.10417,0 0,-3.3333 2.66667,-2.6667 0,-1.3333 -1.33333,0 -2.66667,2.6666 -2.66667,-2.6666 -1.33333,0 z m 0.92839,8.5846 0.63411,0.6341 1.10417,0 0,3.5625 -2.51954,-2.5195 0.78126,-0.78 0,-0.8971 z m 6.14322,0 0,0.8971 0.78126,0.78 -2.51954,2.5195 0,-3.5625 1.10417,0 0.63411,-0.6341 z m -8.80989,3.5625 2.51953,2.5195 -3.5625,0 0,-1.1041 -0.63412,-0.6342 0.89714,0 0.77995,-0.7812 z m 11.47656,0 0.77995,0.7812 0.89714,0 -0.63412,0.6342 0,1.1041 -3.5625,0 2.51953,-2.5195 z m -12.51953,5.1862 3.5625,0 -2.51953,2.5195 -0.77995,-0.7812 -0.89714,0 0.63412,-0.6341 0,-1.1042 z m 10,0 3.5625,0 0,1.1042 0.63412,0.6341 -0.89714,0 -0.77995,0.7812 -2.51953,-2.5195 z m -4.55208,1.8854 0,3.5625 -1.10417,0 -0.63411,0.6341 0,-0.8971 -0.78126,-0.78 2.51954,-2.5195 z m 2.66666,0 2.51954,2.5195 -0.78126,0.78 0,0.8971 -0.63411,-0.6341 -1.10417,0 0,-3.5625 z"
+       id="rect4419"
+       inkscape:connector-curvature="0" />
+    <rect
+       style="opacity:1;fill:#790000;fill-opacity:0.99607843;stroke:none;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect4442"
+       width="48"
+       height="48"
+       x="112"
+       y="1116.3622"
+       ry="0"
+       rx="0"
+       inkscape:export-filename="/home/georg/Software/Entwicklung/Android/GOToolSet/app/src/main/res/drawable/type_dragon.png"
+       inkscape:export-xdpi="180"
+       inkscape:export-ydpi="180" />
+    <path
+       style="fill:#ffffff;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 143.61905,1124.3622 -12.19048,12.9523 -2.28571,5.3334 -6.85715,9.1428 4.57143,3.8096 1.52381,0.7619 -0.7619,-2.2858 5.33333,-2.2857 3.04762,-0.7619 3.04762,-3.0476 3.04762,0.7619 6.09524,6.0953 1.52381,-16 -8.38096,-3.0477 -3.80952,0 6.85714,-8.3809 -0.7619,-3.0476 z m -8.38095,12.9523 -1.52381,4.5715 -3.04762,0.7619 4.57143,-5.3334 z"
+       id="path4444"
+       inkscape:connector-curvature="0" />
+    <rect
+       style="opacity:1;fill:#171717;fill-opacity:0.99607843;stroke:none;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect4449"
+       width="48"
+       height="48"
+       x="112"
+       y="1172.3622"
+       ry="0"
+       rx="0"
+       inkscape:export-filename="/home/georg/Software/Entwicklung/Android/GOToolSet/app/src/main/res/drawable/type_dark.png"
+       inkscape:export-xdpi="180"
+       inkscape:export-ydpi="180" />
+    <path
+       style="fill:#ffffff;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 136,1185.6957 a 10.6665,10.6665 0 0 1 10.6665,10.6665 10.6665,10.6665 0 0 1 -9.85271,10.6313 c 7.36352,-0.357 10.04108,-5.4865 15.18596,-10.6313 -5.33325,-5.3333 -7.99988,-10.6665 -15.99975,-10.6665 z m -0.81379,0.035 c -7.36352,0.357 -10.04108,5.4865 -15.18596,10.6314 5.33325,5.3332 7.99987,10.6665 15.99975,10.6665 a 10.6665,10.6665 0 0 1 -10.6665,-10.6665 10.6665,10.6665 0 0 1 9.85271,-10.6314 z M 136,1187.6956 c -1.08332,2.1667 -2.16663,4.3333 -2.16663,8.6666 0,4.3332 1.08331,6.4999 2.16663,8.6665 1.08332,-2.1666 2.16663,-4.3333 2.16663,-8.6665 0,-4.3333 -1.08331,-6.4999 -2.16663,-8.6666 z"
+       id="path4457"
+       inkscape:connector-curvature="0" />
+    <rect
+       rx="0"
+       ry="0"
+       y="1228.3622"
+       x="112"
+       height="48"
+       width="48"
+       id="rect4469"
+       style="opacity:1;fill:#ff7cd8;fill-opacity:0.99607843;stroke:none;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       inkscape:export-filename="/home/georg/Software/Entwicklung/Android/GOToolSet/app/src/main/res/drawable/type_fairy.png"
+       inkscape:export-xdpi="180"
+       inkscape:export-ydpi="180" />
+    <path
+       sodipodi:type="star"
+       style="opacity:1;fill:#ffffff;fill-opacity:0.99607843;stroke:none;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="path4471"
+       sodipodi:sides="5"
+       sodipodi:cx="137.38428"
+       sodipodi:cy="1252.1556"
+       sodipodi:r1="16.825409"
+       sodipodi:r2="8.4127045"
+       sodipodi:arg1="0.5880026"
+       sodipodi:arg2="1.2163211"
+       inkscape:flatsided="false"
+       inkscape:rounded="0.1"
+       inkscape:randomized="0"
+       d="m 151.38386,1261.4887 c -0.61977,0.9297 -10.0317,-1.8312 -11.07955,-1.4434 -1.04785,0.3878 -6.3945,8.611 -7.47019,8.3088 -1.07568,-0.3021 -1.35839,-10.1066 -2.05103,-10.9833 -0.69264,-0.8767 -10.16552,-3.4206 -10.21055,-4.537 -0.045,-1.1164 9.19217,-4.415 9.81194,-5.3447 0.61978,-0.9297 0.11188,-10.725 1.15973,-11.1128 1.04785,-0.3878 7.03946,7.3779 8.11514,7.6801 1.07569,0.3022 10.23466,-3.2078 10.9273,-2.3311 0.69264,0.8767 -4.84154,8.9749 -4.7965,10.0913 0.045,1.1164 6.21349,8.7424 5.59371,9.6721 z"
+       inkscape:transform-center-x="1.4060824"
+       inkscape:transform-center-y="0.20958989" />
+    <rect
+       inkscape:export-ydpi="180"
+       inkscape:export-xdpi="180"
+       inkscape:export-filename="/home/georg/Software/Entwicklung/Android/GOToolSet/app/src/main/res/drawable/type_psychic.png"
+       style="opacity:1;fill:#4d1e71;fill-opacity:0.99607843;stroke:none;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect4476"
+       width="48"
+       height="48"
+       x="112"
+       y="1280.3622"
+       ry="0"
+       rx="0" />
+    <path
+       sodipodi:type="spiral"
+       style="fill:none;fill-rule:evenodd;stroke:#ffffff;stroke-width:2.13216639;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path4478"
+       sodipodi:cx="134.77718"
+       sodipodi:cy="1305.5782"
+       sodipodi:expansion="1"
+       sodipodi:revolution="3.3906374"
+       sodipodi:radius="16.548775"
+       sodipodi:argument="-8.2221537"
+       sodipodi:t0="0"
+       d="m 134.77718,1305.5782 c -0.26423,-0.6849 0.79292,-0.694 1.13841,-0.4391 0.93625,0.6909 0.51361,2.095 -0.2601,2.716 -1.38399,1.1108 -3.39396,0.4219 -4.29355,-0.9594 -1.3202,-2.027 -0.33547,-4.7134 1.65861,-5.8711 2.6578,-1.543 6.04057,-0.2517 7.44869,2.3579 1.77198,3.2839 0.16953,7.3714 -3.05713,9.0262 -3.90791,2.0042 -8.70445,0.088 -10.60383,-3.7564 -2.23835,-4.5307 -0.007,-10.0387 4.45565,-12.1814 5.15278,-2.4737 11.374,0.073 13.75897,5.1549 2.70994,5.7744 -0.15311,12.7099 -5.85416,15.3366 -6.39572,2.9467 -14.04614,-0.2331 -16.91411,-6.5534 -3.18399,-7.0168 0.31286,-15.3828 7.25267,-18.4917 7.63771,-3.4216 16.71967,0.3925 20.06925,7.9519 1.95429,4.4105 1.77359,9.5706 -0.401,13.8668" />
+    <circle
+       r="0"
+       cy="260.36215"
+       cx="96"
+       id="circle4489"
+       style="opacity:1;fill:#ef2929;fill-opacity:0.99607843;stroke:none;stroke-width:6;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <path
+       sodipodi:end="2.3561945"
+       sodipodi:start="0"
+       sodipodi:ry="0"
+       sodipodi:rx="0"
+       sodipodi:cy="284.36215"
+       sodipodi:cx="120"
+       sodipodi:type="arc"
+       id="path4491"
+       style="opacity:1;fill:#ef2929;fill-opacity:0.99607843;stroke:none;stroke-width:6;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <rect
+       style="opacity:1;fill:#cc0000;fill-opacity:0.99607843;stroke:none;stroke-width:12;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.99607843"
+       id="rect4231"
+       width="288"
+       height="288"
+       x="0"
+       y="140.36217"
+       inkscape:export-filename="/home/georg/Software/Entwicklung/Android/GOToolSet/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
+       inkscape:export-xdpi="60"
+       inkscape:export-ydpi="60"
+       ry="15.999992"
+       rx="16" />
+    <rect
+       style="opacity:1;fill:#74ae3f;fill-opacity:0.99607843;stroke:none;stroke-width:12;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.99607843"
+       id="rect4569"
+       width="144"
+       height="144"
+       x="-184"
+       y="140.36217" />
+    <path
+       style="opacity:0.2;fill:#000000;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 264 -420 L 164 -364 L 112 -364 L 80 -380 L 28 -384 L 75.404297 -336.5957 L 68 -323 L 167 -224 L 272 -224 C 280.864 -224 288 -231.136 288 -240 L 288 -396 L 264 -420 z "
+       transform="translate(0,652.36216)"
+       id="path4237" />
+    <path
+       style="opacity:1;fill:#ffffff;fill-opacity:0.99607843;stroke:none;stroke-width:8;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="M 213.16602 -473.0293 L 183.74805 -443.61328 L 211.06445 -416.29688 L 181.58984 -386.82227 C 183.26338 -385.70955 184.88599 -384.52708 186.46484 -383.29102 L 215.26758 -412.09375 L 227.875 -399.48828 L 199.15625 -370.76953 C 200.41021 -369.21061 201.61381 -367.6095 202.74609 -365.95508 L 232.07617 -395.28516 L 238.38086 -388.98047 L 267.79688 -359.56445 L 272 -363.76758 L 267.79688 -418.39844 L 213.16602 -473.0293 z M 213.16602 -464.625 L 262.03906 -415.75195 L 265.54297 -370.22461 L 242.58398 -393.18359 L 236.2793 -399.48828 L 215.26758 -420.5 L 192.1543 -443.61328 L 213.16602 -464.625 z "
+       transform="translate(0,652.36216)"
+       id="rect4508" />
+    <path
+       style="opacity:1;fill:#ffffff;fill-opacity:0.99607843;stroke:none;stroke-width:8;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="M 50.728516 -446.03516 C 46.594499 -446.0118 42.466523 -445.44144 38.625 -444.41211 L 60.435547 -422.60156 L 39.423828 -401.58789 L 17.623047 -423.38867 C 14.330515 -411.10081 15.732495 -395.88917 24.714844 -386.88086 C 34.889462 -376.70626 49.678889 -373.97672 62.341797 -378.66992 L 75.058594 -365.95508 C 76.190875 -367.6095 77.394475 -369.21061 78.648438 -370.76953 L 68.046875 -381.37109 L 65.925781 -383.49219 L 63.685547 -385.73242 C 52.478531 -379.84613 38.379399 -381.62604 28.923828 -391.07617 L 28.921875 -391.07812 L 28.917969 -391.08203 C 24.421178 -395.59562 22.405644 -402.8928 22.226562 -410.38086 L 35.222656 -397.38477 A 5.9437381 5.9437381 0 0 0 43.626953 -397.38477 L 64.638672 -418.39648 A 5.9437381 5.9437381 0 0 0 64.638672 -426.80273 L 51.632812 -439.80859 C 59.127727 -439.62882 66.432617 -437.60868 70.947266 -433.10352 C 80.399213 -423.64815 82.177507 -409.54762 76.291016 -398.33984 L 78.544922 -396.08789 L 80.654297 -393.97852 L 91.341797 -383.29102 C 92.920272 -384.52673 94.541737 -385.70983 96.214844 -386.82227 L 83.355469 -399.68164 C 88.048681 -412.34453 85.319134 -427.13398 75.144531 -437.30859 C 68.95122 -443.4889 59.823352 -446.08655 50.728516 -446.03516 z "
+       transform="translate(0,652.36216)"
+       id="path4528" />
+    <path
+       inkscape:connector-curvature="0"
+       style="opacity:1;fill:#ffffff;fill-opacity:0.99607843;stroke:none;stroke-width:6;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 138.90241,258.643 a 71.317725,71.317725 0 0 0 -71.317719,71.31773 l 41.602009,0 a 29.715719,29.715719 0 0 1 29.71571,-29.71572 29.715719,29.715719 0 0 1 29.71572,29.71572 l 41.60201,0 A 71.317725,71.317725 0 0 0 138.90241,258.643 Z m 0,5.94314 c 34.13905,0 61.74052,26.10027 64.7768,59.43144 l -29.72153,0 c -2.86054,-16.80195 -17.46647,-29.71572 -35.05527,-29.71572 -17.58879,0 -32.19472,12.91377 -35.05525,29.71572 l -29.721528,0 c 3.036277,-33.33117 30.637748,-59.43144 64.776778,-59.43144 z"
+       id="path4480" />
+    <path
+       inkscape:connector-curvature="0"
+       style="opacity:1;fill:#ffffff;fill-opacity:0.99607843;stroke:none;stroke-width:6;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 138.90241,306.18815 a 23.772575,23.772575 0 0 0 -23.77257,23.77258 23.772575,23.772575 0 0 0 23.77257,23.77257 23.772575,23.772575 0 0 0 23.77259,-23.77257 23.772575,23.772575 0 0 0 -23.77259,-23.77258 z m 0,5.94315 a 17.829431,17.829431 0 0 1 17.82944,17.82943 17.829431,17.829431 0 0 1 -17.82944,17.82942 17.829431,17.829431 0 0 1 -17.82943,-17.82942 17.829431,17.829431 0 0 1 17.82943,-17.82943 z"
+       id="path4495" />
+    <path
+       style="opacity:1;fill:#ffffff;fill-opacity:0.99607843;stroke:none;stroke-width:8;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 213.16602,-473.0293 -29.41797,29.41602 27.3164,27.3164 -29.47461,29.47461 21.15625,20.86719 29.33008,-29.33008 6.30469,6.30469 29.41602,29.41602 4.20312,-4.20313 -4.20312,-54.63086 z m -162.437504,26.99414 c -4.134017,0.0234 -8.261993,0.59372 -12.103516,1.62305 l 21.810547,21.81055 -21.011719,21.01367 -21.800781,-21.80078 c -3.292532,12.28786 -1.890552,27.4995 7.091797,36.50781 10.174618,10.1746 24.964045,12.90414 37.626953,8.21094 l 12.716797,12.71484 21.15625,-20.86719 -12.859375,-12.85937 c 4.693212,-12.66289 1.963665,-27.45234 -8.210938,-37.62695 -6.193311,-6.18031 -15.321179,-8.77796 -24.416015,-8.72657 z m 88.173824,52.31641 c -39.387425,-3.5e-4 -71.31763,31.92899 -71.318356,71.31641 l 41.603516,0 c 4.8e-4,-16.41086 13.30398,-29.71436 29.71484,-29.71485 16.41086,4.8e-4 29.71437,13.30399 29.71485,29.71485 l 41.60351,0 c -7.3e-4,-39.38743 -31.93093,-71.31676 -71.31836,-71.31641 z m 0,47.54492 c -13.12914,-4.7e-4 -23.77283,10.64235 -23.77343,23.77149 -4.7e-4,13.1299 10.64353,23.7739 23.77343,23.77343 13.1299,4.8e-4 23.77391,-10.64353 23.77344,-23.77343 -6e-4,-13.12914 -10.6443,-23.77197 -23.77344,-23.77149 z"
+       transform="translate(0,652.36216)"
+       id="path4239"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccccccccccsccccccccccsccccccccscsc" />
+    <g
+       id="g4410"
+       transform="matrix(1.4142136,1.4142136,-1.4142136,1.4142136,2217.6476,-2011.9211)">
+      <rect
+         style="opacity:1;fill:#888a85;fill-opacity:0.99607843;stroke:none;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect4336"
+         width="48"
+         height="48"
+         x="280"
+         y="1124.3622"
+         ry="0"
+         rx="0"
+         inkscape:export-filename="/home/georg/Software/Entwicklung/Android/GOToolSet/app/src/main/res/drawable/type_normal.png"
+         inkscape:export-xdpi="180"
+         inkscape:export-ydpi="180" />
+      <path
+         sodipodi:type="star"
+         style="opacity:1;fill:#ffffff;fill-opacity:0.99607843;stroke:none;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="path4338"
+         sodipodi:sides="6"
+         sodipodi:cx="-160"
+         sodipodi:cy="956.36218"
+         sodipodi:r1="107.62899"
+         sodipodi:r2="53.814495"
+         sodipodi:arg1="0.83798123"
+         sodipodi:arg2="1.36158"
+         inkscape:flatsided="false"
+         inkscape:rounded="0"
+         inkscape:randomized="0"
+         d="m -88.000002,1036.3622 -60.823088,-27.359 -44.45894,49.7128 L -200,992.36218 -265.28203,978.71601 -211.17691,939.72117 -232,876.36218 l 60.82309,27.35899 44.45894,-49.71281 6.71797,66.35382 65.28203,13.64617 -54.10512,38.99485 z"
+         transform="matrix(0.14137365,-0.04596996,0.04596996,0.14137365,282.65585,1005.8025)" />
+      <rect
+         rx="0"
+         ry="0"
+         y="1180.3622"
+         x="280"
+         height="48"
+         width="48"
+         id="rect4340"
+         style="opacity:1;fill:#e9b96e;fill-opacity:0.99607843;stroke:none;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         inkscape:export-filename="/home/georg/Software/Entwicklung/Android/GOToolSet/app/src/main/res/drawable/type_fighting.png"
+         inkscape:export-xdpi="180"
+         inkscape:export-ydpi="180" />
+      <path
+         style="opacity:1;fill:#ffffff;fill-opacity:0.99607843;stroke:none;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         d="m 307.2,1191.5622 a 12.8,12.8 0 0 0 -9.925,4.7296 c -0.38154,-0.916 -1.06205,-1.5296 -1.84844,-1.5296 l -5.25312,0 c -1.20417,0 -2.17344,1.4272 -2.17344,3.2 l 0,12.8 c 0,1.7728 0.96927,3.2 2.17344,3.2 l 5.25312,0 c 0.78678,0 1.46701,-0.6145 1.84844,-1.5313 a 12.8,12.8 0 0 0 9.925,4.7313 12.8,12.8 0 0 0 12.8,-12.8 12.8,12.8 0 0 0 -12.8,-12.8 z m 3.06406,13.9187 a 7.1681452,6.5164956 28.222812 0 1 0.27813,6.3328 7.1681452,6.5164956 28.222812 0 1 -9.39844,2.3516 7.1681452,6.5164956 28.222812 0 1 -3.17187,-3.1938 9.1230936,7.8197947 28.222812 0 0 11.50625,-2.6875 9.1230936,7.8197947 28.222812 0 0 0.78593,-2.8031 z"
+         id="path4342"
+         inkscape:connector-curvature="0" />
+      <rect
+         style="opacity:1;fill:#d3d7cf;fill-opacity:0.99607843;stroke:none;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect4344"
+         width="48"
+         height="48"
+         x="280"
+         y="1068.3622"
+         ry="0"
+         rx="0"
+         inkscape:export-filename="/home/georg/Software/Entwicklung/Android/GOToolSet/app/src/main/res/drawable/type_any.png"
+         inkscape:export-xdpi="180"
+         inkscape:export-ydpi="180" />
+      <rect
+         style="opacity:1;fill:#888a85;fill-opacity:0.99607843;stroke:none;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect4346"
+         width="48"
+         height="48"
+         x="280"
+         y="1236.3622"
+         ry="0"
+         rx="0"
+         inkscape:export-filename="/home/georg/Software/Entwicklung/Android/GOToolSet/app/src/main/res/drawable/type_flying.png"
+         inkscape:export-xdpi="180"
+         inkscape:export-ydpi="180" />
+      <path
+         style="fill:#ffffff;fill-rule:evenodd;stroke:none;stroke-width:1.26491106px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 320,1246.8726 c -27.38001,6.1248 -19.43764,20.8793 -32,26.9792 6.72038,-2.6746 8.42141,-6.4538 18.07579,-7.136 -1.85468,-2.8514 0.80412,-5.8859 2.52586,-9.324 -4.13033,2.2557 -6.58547,4.8649 -8.35782,7.554 l -1.02996,0.1482 c 1.98985,-3.1267 4.86225,-6.2231 10.01526,-8.8016 0.72969,-1.1506 1.72072,-2.3474 3.02705,-3.6007 -6.27662,2.5743 -9.54348,5.8095 -11.75597,9.1665 l -1.02996,0.1482 c 2.47167,-3.884 6.30202,-7.7209 14.18559,-10.5749 1.69323,-1.4427 3.78614,-2.9583 6.34416,-4.5589 z"
+         id="path4348"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cccccccccccc" />
+      <rect
+         rx="0"
+         ry="0"
+         y="1288.3622"
+         x="280"
+         height="48"
+         width="48"
+         id="rect4350"
+         style="opacity:1;fill:#75507b;fill-opacity:0.99607843;stroke:none;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         inkscape:export-filename="/home/georg/Software/Entwicklung/Android/GOToolSet/app/src/main/res/drawable/type_poison.png"
+         inkscape:export-xdpi="180"
+         inkscape:export-ydpi="180" />
+      <path
+         style="opacity:1;fill:#ffffff;fill-opacity:0.99607843;stroke:none;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         d="m 304.00004,1296.3623 c -7.68396,0 -13.91304,6.229 -13.91304,13.913 0.005,4.3737 2.06726,8.4903 5.56657,11.1141 -3e-5,0.01 -10e-4,0.011 -10e-4,0.016 l 0,1.3913 c 0,1.5414 1.24105,2.7827 2.78261,2.7827 l 4.17392,0 0,0.6956 c 0,0.3854 0.31026,0.6957 0.69565,0.6957 l 1.3913,0 c 0.38539,0 0.69565,-0.3103 0.69565,-0.6957 l 0,-0.6956 1.39131,0 0,2.0869 c 0,0.3854 0.31026,0.6957 0.69565,0.6957 l 1.3913,0 c 0.3854,0 0.69566,-0.3103 0.69566,-0.6957 l 0,-2.0869 c 1.54156,0 2.78261,-1.2413 2.78261,-2.7827 l 0,-1.3913 c 0,-0.01 -10e-4,-0.013 -10e-4,-0.02 3.49823,-2.623 5.55984,-6.7378 5.56657,-11.1101 0,-7.684 -6.22908,-13.913 -13.91304,-13.913 z m -6.95652,6.9565 c 3.07358,0 5.56522,2.4916 5.56522,5.5652 0,3.0736 -2.49164,5.5652 -5.56522,5.5652 -3.07358,0 -5.56522,-2.4916 -5.56522,-5.5652 0,-3.0736 2.49163,-5.5652 5.56522,-5.5652 z m 13.91304,0 c 3.07359,0 5.56522,2.4916 5.56522,5.5652 0,3.0736 -2.49163,5.5652 -5.56522,5.5652 -3.07358,0 -5.56521,-2.4916 -5.56521,-5.5652 0,-3.0736 2.49163,-5.5652 5.56521,-5.5652 z"
+         id="path4352"
+         inkscape:connector-curvature="0" />
+      <rect
+         style="opacity:1;fill:#c17d11;fill-opacity:0.99607843;stroke:none;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect4354"
+         width="48"
+         height="48"
+         x="280"
+         y="1340.3622"
+         ry="0"
+         rx="0"
+         inkscape:export-filename="/home/georg/Software/Entwicklung/Android/GOToolSet/app/src/main/res/drawable/type_ground.png"
+         inkscape:export-xdpi="180"
+         inkscape:export-ydpi="180" />
+      <path
+         style="opacity:1;fill:#ffffff;fill-opacity:0.99607843;stroke:none;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         d="m 289.6,1353.1622 c -0.8864,0 -1.6,0.7136 -1.6,1.6 0,0.8864 0.7136,1.6 1.6,1.6 l 28.8,0 c 0.8864,0 1.6,-0.7136 1.6,-1.6 0,-0.8864 -0.7136,-1.6 -1.6,-1.6 l -28.8,0 z m 3.2,6.4 c -0.8864,0 -1.6,0.7136 -1.6,1.6 0,0.8864 0.7136,1.6 1.6,1.6 l 22.4,0 c 0.8864,0 1.6,-0.7136 1.6,-1.6 0,-0.8864 -0.7136,-1.6 -1.6,-1.6 l -22.4,0 z m 6.4,6.4 c -0.8864,0 -1.6,0.6813 -1.6,1.5281 l 0,0.1437 c 0,0.8469 0.7136,1.5282 1.6,1.5282 l 9.6,0 c 0.8864,0 1.6,-0.6813 1.6,-1.5282 l 0,-0.1437 c 0,-0.8468 -0.7136,-1.5281 -1.6,-1.5281 l -9.6,0 z m 4.8,6.4 c -0.8864,0 -1.6,0.7136 -1.6,1.6 0,0.8864 0.7136,1.6 1.6,1.6 0.8864,0 1.6,-0.7136 1.6,-1.6 0,-0.8864 -0.7136,-1.6 -1.6,-1.6 z"
+         id="path4356"
+         inkscape:connector-curvature="0" />
+      <rect
+         rx="0"
+         ry="0"
+         y="1396.3622"
+         x="280"
+         height="48"
+         width="48"
+         id="rect4358"
+         style="opacity:1;fill:#555753;fill-opacity:0.99607843;stroke:none;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         inkscape:export-filename="/home/georg/Software/Entwicklung/Android/GOToolSet/app/src/main/res/drawable/type_rock.png"
+         inkscape:export-xdpi="180"
+         inkscape:export-ydpi="180" />
+      <path
+         style="fill:#ffffff;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 309.64706,1409.0681 -8.47059,4.7058 -5.64706,1.8823 L 288,1426.9503 c 0,0 16.94118,4.7059 17.88235,4.7059 0.94118,0 14.11765,-3.7647 14.11765,-3.7647 l -5.64706,-15.0588 -4.70588,-3.7646 z m 0,1.8822 2.82353,2.8236 -6.58824,2.8235 -2.82353,-1.8823 6.58824,-3.7648 z m -13.17647,5.6471 7.52941,0.9412 1.88235,12.2353 -15.05882,-3.7646 5.64706,-9.4119 z"
+         id="path4360"
+         inkscape:connector-curvature="0" />
+      <rect
+         style="opacity:1;fill:#c7e754;fill-opacity:0.99607843;stroke:none;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect4362"
+         width="48"
+         height="48"
+         x="336"
+         y="1068.3622"
+         ry="0"
+         rx="0"
+         inkscape:export-filename="/home/georg/Software/Entwicklung/Android/GOToolSet/app/src/main/res/drawable/type_bug.png"
+         inkscape:export-xdpi="180"
+         inkscape:export-ydpi="180" />
+      <path
+         inkscape:connector-curvature="0"
+         style="opacity:1;fill:#ffffff;fill-opacity:0.99607843;stroke:none;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         d="m 360,1076.3621 c -2.9455,0 -5.33396,2.3885 -5.33398,5.334 0.002,0.3579 0.0399,0.7142 0.11328,1.0645 -4.91939,2.093 -8.11296,6.9215 -8.11328,12.2676 -4e-5,7.3638 5.97016,13.3339 13.33398,13.3339 7.36382,0 13.33402,-5.9701 13.33398,-13.3339 -0.004,-5.4201 -3.28813,-10.2973 -8.30859,-12.3399 0.067,0.025 0.13258,0.05 0.19922,0.076 0.0718,-0.3514 0.10934,-0.7098 0.10937,-1.0684 2.5e-4,-2.9457 -2.38828,-5.334 -5.33398,-5.334 z m -0.0293,5.334 0.0293,0 c -0.11205,0 -0.22403,0.01 -0.33594,0.016 0.10193,-0.01 0.20459,-0.012 0.30664,-0.016 z m 0.0293,2.666 c 1.57713,0 3.13294,0.3585 4.55664,1.0371 -0.36074,0.4664 -0.55607,1.0394 -0.55664,1.629 -2e-5,1.4728 1.19324,2.6679 2.66602,2.6679 0.75645,0 1.47749,-0.3234 1.98242,-0.8867 1.30735,1.8109 2.01263,3.9853 2.01758,6.2188 -0.003,2.2346 -0.7084,4.4123 -2.01563,6.2246 -0.50482,-0.5654 -1.22641,-0.8893 -1.98437,-0.8907 -1.47274,0 -2.66598,1.1934 -2.66602,2.6661 10e-4,0.5905 0.19813,1.1645 0.56055,1.6308 -1.3027,0.6205 -2.71732,0.9554 -4.15625,1.0137 0.35105,-1.2392 0.5957,-4.0335 0.5957,-7.3106 l 0,-6 c 0,-4.432 -0.446,-8 -1,-8 z m 0,0 c -0.554,0 -1,3.568 -1,8 l 0,6 c 0,3.2771 0.24465,6.0714 0.5957,7.3106 -1.43867,-0.056 -2.8541,-0.3945 -4.15625,-1.0156 0.36141,-0.4657 0.55895,-1.0394 0.56055,-1.6289 -4e-5,-1.4727 -1.19328,-2.6661 -2.66602,-2.6661 -0.75645,0 -1.47749,0.3235 -1.98242,0.8868 -1.30737,-1.8109 -2.01265,-3.9872 -2.01758,-6.2207 0.003,-2.2345 0.70842,-4.4104 2.01563,-6.2227 0.50482,0.5654 1.2264,0.8892 1.98437,0.8906 1.47278,0 2.66604,-1.1951 2.66602,-2.6679 -7.4e-4,-0.5908 -0.19833,-1.1641 -0.56055,-1.6309 1.4247,-0.678 2.98274,-1.0317 4.56055,-1.0352 z m -6,8 c -1.47273,0 -2.66598,1.1934 -2.66602,2.6661 -10e-6,1.4728 1.19325,2.6679 2.66602,2.6679 1.47277,0 2.66603,-1.1951 2.66602,-2.6679 -4e-5,-1.4727 -1.19329,-2.6661 -2.66602,-2.6661 z m 12,0 c -1.47273,0 -2.66598,1.1934 -2.66602,2.6661 -10e-6,1.4728 1.19325,2.6679 2.66602,2.6679 1.47277,0 2.66603,-1.1951 2.66602,-2.6679 -4e-5,-1.4727 -1.19329,-2.6661 -2.66602,-2.6661 z"
+         id="path4364" />
+      <rect
+         rx="0"
+         ry="0"
+         y="1124.3622"
+         x="336"
+         height="48"
+         width="48"
+         id="rect4366"
+         style="opacity:1;fill:#736672;fill-opacity:0.99607843;stroke:none;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         inkscape:export-filename="/home/georg/Software/Entwicklung/Android/GOToolSet/app/src/main/res/drawable/type_ghost.png"
+         inkscape:export-xdpi="180"
+         inkscape:export-ydpi="180" />
+      <path
+         style="opacity:1;fill:#ffffff;fill-opacity:0.99607843;stroke:none;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         d="m 360,1132.3622 a 9.6,9.6 0 0 0 -9.6,9.6 l 0,22.4 3.2,-3.2 3.2,3.2 3.2,-3.2 3.2,3.2 3.2,-3.2 3.2,3.2 0,-22.4 a 9.6,9.6 0 0 0 -9.6,-9.6 z m -4,4.8 a 2.4,2.4 0 0 1 2.4,2.4 2.4,2.4 0 0 1 -2.4,2.4 2.4,2.4 0 0 1 -2.4,-2.4 2.4,2.4 0 0 1 2.4,-2.4 z m 8,0 a 2.4,2.4 0 0 1 2.4,2.4 2.4,2.4 0 0 1 -2.4,2.4 2.4,2.4 0 0 1 -2.4,-2.4 2.4,2.4 0 0 1 2.4,-2.4 z"
+         id="path4368"
+         inkscape:connector-curvature="0" />
+      <rect
+         style="opacity:1;fill:#98b2cd;fill-opacity:0.99607843;stroke:none;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect4370"
+         width="48"
+         height="48"
+         x="336"
+         y="1180.3622"
+         ry="0"
+         rx="0"
+         inkscape:export-filename="/home/georg/Software/Entwicklung/Android/GOToolSet/app/src/main/res/drawable/type_steel.png"
+         inkscape:export-xdpi="180"
+         inkscape:export-ydpi="180" />
+      <path
+         style="opacity:1;fill:#ffffff;fill-opacity:0.99607843;stroke:none;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         d="m 344,1188.3622 0,32 32,0 0,-32 -32,0 z m 2,2 6,0 -6,6 0,-6 z m 10,0 8,0 -18,18 0,-8 10,-10 z m 10,0 8,0 0,2 -26,26 -2,0 0,-8 20,-20 z m 8,8 0,2 -18,18 -2,0 20,-20 z m 0,4 0,16 -16,0 16,-16 z"
+         id="path4372"
+         inkscape:connector-curvature="0" />
+      <rect
+         rx="0"
+         ry="0"
+         y="1236.3622"
+         x="336"
+         height="48"
+         width="48"
+         id="rect4374"
+         style="opacity:1;fill:#cc0000;fill-opacity:0.99607843;stroke:none;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         inkscape:export-filename="/home/georg/Software/Entwicklung/Android/GOToolSet/app/src/main/res/drawable/type_fire.png"
+         inkscape:export-xdpi="180"
+         inkscape:export-ydpi="180" />
+      <path
+         style="opacity:1;fill:#ffffff;fill-opacity:0.99607843;stroke:none;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         d="m 359.99999,1244.3621 c 0.58613,7.0335 -1.66068,10.2898 -3.31676,14.3338 -0.35937,-1.8689 -0.83973,-3.7377 -1.77415,-5.6066 0.42001,5.0402 -1.34086,7.1724 -2.45028,10.1733 a 8.7272727,8.7272727 0 0 0 -1.18608,4.3722 8.7272727,8.7272727 0 0 0 8.72727,8.7273 8.7272727,8.7272727 0 0 0 0.12926,0 c 2.22401,-0.5769 4.11541,-2.2397 4.62358,-4.5895 0.57546,-2.6609 -1.01022,-5.6007 -3.72585,-6.0895 -1.91768,-0.3451 -4.04283,0.8386 -4.27557,2.7884 -0.0694,0.5815 0.10917,1.2696 0.44887,1.7486 0.33969,0.4789 0.7583,0.7428 1.3338,0.7428 a 1.0910182,1.0910182 0 1 1 0.004,2.1819 c -1.33121,0 -2.44859,-0.7183 -3.11789,-1.662 -0.66935,-0.9437 -0.97334,-2.113 -0.83523,-3.2699 0.19904,-1.6671 1.14295,-2.9744 2.41903,-3.7954 l 0.001,0 c 1.27604,-0.8212 2.88301,-1.1568 4.40909,-0.8821 4.03563,0.7263 6.29038,4.9061 5.47017,8.6989 -0.0908,0.4196 -0.22253,0.8162 -0.37216,1.2017 a 8.7272727,8.7272727 0 0 0 2.21449,-5.7969 8.7272727,8.7272727 0 0 0 -0.96307,-3.9659 c -0.74328,-3.5265 -0.91005,-7.0531 -2.67329,-10.5796 0.25635,3.0763 -0.31005,5.0554 -1.03551,6.8225 a 8.7272727,8.7272727 0 0 0 -0.12216,-0.067 c -1.04848,-5.1651 -1.35276,-10.326 -3.93326,-15.487 z"
+         id="path4376"
+         inkscape:connector-curvature="0" />
+      <rect
+         style="opacity:1;fill:#3465a4;fill-opacity:0.99607843;stroke:none;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect4378"
+         width="48"
+         height="48"
+         x="336"
+         y="1288.3622"
+         ry="0"
+         rx="0"
+         inkscape:export-filename="/home/georg/Software/Entwicklung/Android/GOToolSet/app/src/main/res/drawable/type_water.png"
+         inkscape:export-xdpi="180"
+         inkscape:export-ydpi="180" />
+      <path
+         style="opacity:1;fill:#ffffff;fill-opacity:0.99607843;stroke:none;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         d="m 360,1296.3622 c 0,7.3225 -5.57491,12.3186 -8.225,17.4718 a 9.6,9.6 0 0 0 -1.3375,4.175 c -0.0229,0.2494 -0.0375,0.5001 -0.0375,0.7532 a 9.6,9.6 0 0 0 9.6,9.6 9.6,9.6 0 0 0 9.6,-9.6 9.6,9.6 0 0 0 -0.0437,-0.8407 c -0.43777,-5.4761 -4.99228,-12.4313 -9.5563,-21.5593 z m -3.2,22.4 a 3.2,3.2 0 0 1 3.2,3.2 3.2,3.2 0 0 1 -3.2,3.2 3.2,3.2 0 0 1 -3.2,-3.2 3.2,3.2 0 0 1 3.2,-3.2 z"
+         id="path4380"
+         inkscape:connector-curvature="0" />
+      <rect
+         rx="0"
+         ry="0"
+         y="1340.3622"
+         x="336"
+         height="48"
+         width="48"
+         id="rect4382"
+         style="opacity:1;fill:#4e9a06;fill-opacity:0.99607843;stroke:none;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         inkscape:export-filename="/home/georg/Software/Entwicklung/Android/GOToolSet/app/src/main/res/drawable/type_grass.png"
+         inkscape:export-xdpi="180"
+         inkscape:export-ydpi="180" />
+      <path
+         style="fill:#ffffff;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 360.00006,1348.3622 c -11.51294,11.3336 -12.60413,25.0569 -0.49039,29.3621 l -0.33012,2.6379 1.64102,-0.8206 -0.30449,-1.8269 c 12.08632,-4.3156 10.98872,-18.027 -0.51602,-29.3525 z m 0,2.4775 c 4.71719,5.0842 7.29933,10.4748 7.46474,14.8895 0.17904,4.778 -1.98415,8.4499 -7.45993,10.4214 -5.47688,-1.9688 -7.64484,-5.6368 -7.46955,-10.4118 0.16212,-4.4166 2.74398,-9.811 7.46474,-14.8991 z m 0,1.9471 0,21.992 c 0.002,7e-4 0.003,10e-4 0.005,0 2.28256,-0.9017 3.86729,-2.0675 4.83333,-3.4823 1.03337,-1.5135 1.47957,-3.3306 1.39744,-5.5225 -0.13778,-3.6769 -2.30094,-8.3972 -6.23558,-12.9888 z"
+         id="path4384"
+         inkscape:connector-curvature="0" />
+      <rect
+         style="opacity:1;fill:#ffcf00;fill-opacity:0.99607843;stroke:none;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect4386"
+         width="48"
+         height="48"
+         x="336"
+         y="1396.3622"
+         ry="0"
+         rx="0"
+         inkscape:export-filename="/home/georg/Software/Entwicklung/Android/GOToolSet/app/src/main/res/drawable/type_electric.png"
+         inkscape:export-xdpi="180"
+         inkscape:export-ydpi="180" />
+      <path
+         style="fill:#ffffff;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 353.6,1404.3622 12.8,0 -6.4,16 6.4,-3.2 -6.4,19.2 0,-9.6 -3.2,3.2 z"
+         id="path4388"
+         inkscape:connector-curvature="0" />
+      <rect
+         rx="0"
+         ry="0"
+         y="1068.3622"
+         x="392"
+         height="48"
+         width="48"
+         id="rect4390"
+         style="opacity:1;fill:#87c1ff;fill-opacity:0.99607843;stroke:none;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         inkscape:export-filename="/home/georg/Software/Entwicklung/Android/GOToolSet/app/src/main/res/drawable/type_ice.png"
+         inkscape:export-xdpi="180"
+         inkscape:export-ydpi="180" />
+      <path
+         style="opacity:1;fill:#ffffff;fill-opacity:0.99607843;stroke:none;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         d="m 412,1076.3622 0,1.3333 2.66667,2.6667 0,3.3333 -1.10417,0 -0.81511,0.8151 -1.15234,0 -0.77994,0.7799 -2.35808,-2.3567 0,-3.7709 -0.94271,-0.9427 -0.94271,0.9427 0,3.7709 -3.77083,0 -0.94271,0.9427 0.94271,0.9427 3.77083,0 2.35678,2.3581 -0.77995,0.7799 0,1.1524 -0.81511,0.8151 0,1.1041 -3.33333,0 -2.66667,-2.6666 -1.33333,0 0,1.3333 2.66667,2.6667 -2.66667,2.6666 0,1.3334 1.33333,0 2.66667,-2.6667 3.33333,0 0,1.1042 0.81511,0.8151 0,1.1523 0.77995,0.78 -2.35678,2.358 -3.77083,0 -0.94271,0.9427 0.94271,0.9427 3.77083,0 0,3.7709 0.94271,0.9427 0.94271,-0.9427 0,-3.7709 2.35808,-2.3567 0.77994,0.7799 1.15234,0 0.81511,0.8151 1.10417,0 0,3.3334 -2.66667,2.6666 0,1.3334 1.33333,0 2.66667,-2.6667 2.66667,2.6667 1.33333,0 0,-1.3334 -2.66667,-2.6666 0,-3.3334 1.10417,0 0.81511,-0.8151 1.15234,0 0.77994,-0.7799 2.35808,2.3567 0,3.7709 0.94271,0.9427 0.94271,-0.9427 0,-3.7709 3.77083,0 0.94271,-0.9427 -0.94271,-0.9427 -3.77083,0 -2.35678,-2.358 0.77995,-0.78 0,-1.1523 0.81511,-0.8151 0,-1.1042 3.33333,0 2.66667,2.6667 1.33333,0 0,-1.3334 -2.66667,-2.6666 2.66667,-2.6667 0,-1.3333 -1.33333,0 -2.66667,2.6666 -3.33333,0 0,-1.1041 -0.81511,-0.8151 0,-1.1524 -0.77995,-0.7799 2.35678,-2.3581 3.77083,0 0.94271,-0.9427 -0.94271,-0.9427 -3.77083,0 0,-3.7709 -0.94271,-0.9427 -0.94271,0.9427 0,3.7709 -2.35808,2.3567 -0.77994,-0.7799 -1.15234,0 -0.81511,-0.8151 -1.10417,0 0,-3.3333 2.66667,-2.6667 0,-1.3333 -1.33333,0 -2.66667,2.6666 -2.66667,-2.6666 -1.33333,0 z m 0.92839,8.5846 0.63411,0.6341 1.10417,0 0,3.5625 -2.51954,-2.5195 0.78126,-0.78 0,-0.8971 z m 6.14322,0 0,0.8971 0.78126,0.78 -2.51954,2.5195 0,-3.5625 1.10417,0 0.63411,-0.6341 z m -8.80989,3.5625 2.51953,2.5195 -3.5625,0 0,-1.1041 -0.63412,-0.6342 0.89714,0 0.77995,-0.7812 z m 11.47656,0 0.77995,0.7812 0.89714,0 -0.63412,0.6342 0,1.1041 -3.5625,0 2.51953,-2.5195 z m -12.51953,5.1862 3.5625,0 -2.51953,2.5195 -0.77995,-0.7812 -0.89714,0 0.63412,-0.6341 0,-1.1042 z m 10,0 3.5625,0 0,1.1042 0.63412,0.6341 -0.89714,0 -0.77995,0.7812 -2.51953,-2.5195 z m -4.55208,1.8854 0,3.5625 -1.10417,0 -0.63411,0.6341 0,-0.8971 -0.78126,-0.78 2.51954,-2.5195 z m 2.66666,0 2.51954,2.5195 -0.78126,0.78 0,0.8971 -0.63411,-0.6341 -1.10417,0 0,-3.5625 z"
+         id="path4392"
+         inkscape:connector-curvature="0" />
+      <rect
+         style="opacity:1;fill:#790000;fill-opacity:0.99607843;stroke:none;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect4394"
+         width="48"
+         height="48"
+         x="392"
+         y="1124.3622"
+         ry="0"
+         rx="0"
+         inkscape:export-filename="/home/georg/Software/Entwicklung/Android/GOToolSet/app/src/main/res/drawable/type_dragon.png"
+         inkscape:export-xdpi="180"
+         inkscape:export-ydpi="180" />
+      <path
+         style="fill:#ffffff;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 423.61905,1132.3622 -12.19048,12.9523 -2.28571,5.3334 -6.85715,9.1428 4.57143,3.8096 1.52381,0.7619 -0.7619,-2.2858 5.33333,-2.2857 3.04762,-0.7619 3.04762,-3.0476 3.04762,0.7619 6.09524,6.0953 1.52381,-16 -8.38096,-3.0477 -3.80952,0 6.85714,-8.3809 -0.7619,-3.0476 z m -8.38095,12.9523 -1.52381,4.5715 -3.04762,0.7619 4.57143,-5.3334 z"
+         id="path4396"
+         inkscape:connector-curvature="0" />
+      <rect
+         style="opacity:1;fill:#171717;fill-opacity:0.99607843;stroke:none;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect4398"
+         width="48"
+         height="48"
+         x="392"
+         y="1180.3622"
+         ry="0"
+         rx="0"
+         inkscape:export-filename="/home/georg/Software/Entwicklung/Android/GOToolSet/app/src/main/res/drawable/type_dark.png"
+         inkscape:export-xdpi="180"
+         inkscape:export-ydpi="180" />
+      <path
+         style="fill:#ffffff;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 416,1193.6957 a 10.6665,10.6665 0 0 1 10.6665,10.6665 10.6665,10.6665 0 0 1 -9.85271,10.6313 c 7.36352,-0.357 10.04108,-5.4865 15.18596,-10.6313 -5.33325,-5.3333 -7.99988,-10.6665 -15.99975,-10.6665 z m -0.81379,0.035 c -7.36352,0.357 -10.04108,5.4865 -15.18596,10.6314 5.33325,5.3332 7.99987,10.6665 15.99975,10.6665 a 10.6665,10.6665 0 0 1 -10.6665,-10.6665 10.6665,10.6665 0 0 1 9.85271,-10.6314 z M 416,1195.6956 c -1.08332,2.1667 -2.16663,4.3333 -2.16663,8.6666 0,4.3332 1.08331,6.4999 2.16663,8.6665 1.08332,-2.1666 2.16663,-4.3333 2.16663,-8.6665 0,-4.3333 -1.08331,-6.4999 -2.16663,-8.6666 z"
+         id="path4400"
+         inkscape:connector-curvature="0" />
+      <rect
+         rx="0"
+         ry="0"
+         y="1236.3622"
+         x="392"
+         height="48"
+         width="48"
+         id="rect4402"
+         style="opacity:1;fill:#ff7cd8;fill-opacity:0.99607843;stroke:none;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         inkscape:export-filename="/home/georg/Software/Entwicklung/Android/GOToolSet/app/src/main/res/drawable/type_fairy.png"
+         inkscape:export-xdpi="180"
+         inkscape:export-ydpi="180" />
+      <path
+         sodipodi:type="star"
+         style="opacity:1;fill:#ffffff;fill-opacity:0.99607843;stroke:none;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="path4404"
+         sodipodi:sides="5"
+         sodipodi:cx="417.38428"
+         sodipodi:cy="1260.1556"
+         sodipodi:r1="16.825409"
+         sodipodi:r2="8.4127045"
+         sodipodi:arg1="0.5880026"
+         sodipodi:arg2="1.2163211"
+         inkscape:flatsided="false"
+         inkscape:rounded="0.1"
+         inkscape:randomized="0"
+         d="m 431.38386,1269.4887 c -0.61977,0.9297 -10.0317,-1.8312 -11.07955,-1.4434 -1.04785,0.3878 -6.3945,8.611 -7.47019,8.3088 -1.07568,-0.3021 -1.35839,-10.1066 -2.05103,-10.9833 -0.69264,-0.8767 -10.16552,-3.4206 -10.21055,-4.537 -0.045,-1.1164 9.19217,-4.415 9.81194,-5.3447 0.61978,-0.9297 0.11188,-10.725 1.15973,-11.1128 1.04785,-0.3878 7.03946,7.3779 8.11514,7.6801 1.07569,0.3022 10.23466,-3.2078 10.9273,-2.3311 0.69264,0.8767 -4.84154,8.9749 -4.7965,10.0913 0.045,1.1164 6.21349,8.7424 5.59371,9.6721 z"
+         inkscape:transform-center-x="1.4060824"
+         inkscape:transform-center-y="0.20958989" />
+      <rect
+         inkscape:export-ydpi="180"
+         inkscape:export-xdpi="180"
+         inkscape:export-filename="/home/georg/Software/Entwicklung/Android/GOToolSet/app/src/main/res/drawable/type_psychic.png"
+         style="opacity:1;fill:#4d1e71;fill-opacity:0.99607843;stroke:none;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect4406"
+         width="48"
+         height="48"
+         x="392"
+         y="1288.3622"
+         ry="0"
+         rx="0" />
+      <path
+         sodipodi:type="spiral"
+         style="fill:none;fill-rule:evenodd;stroke:#ffffff;stroke-width:2.13216639;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="path4408"
+         sodipodi:cx="414.77716"
+         sodipodi:cy="1313.5782"
+         sodipodi:expansion="1"
+         sodipodi:revolution="3.3906374"
+         sodipodi:radius="16.548775"
+         sodipodi:argument="-8.2221537"
+         sodipodi:t0="0"
+         d="m 414.77716,1313.5782 c -0.26422,-0.6849 0.79293,-0.694 1.13841,-0.4391 0.93625,0.6909 0.51361,2.095 -0.2601,2.716 -1.38399,1.1108 -3.39395,0.4219 -4.29355,-0.9594 -1.32019,-2.027 -0.33547,-4.7134 1.65862,-5.8711 2.65779,-1.543 6.04057,-0.2517 7.44869,2.3579 1.77197,3.2839 0.16952,7.3714 -3.05713,9.0262 -3.90791,2.0042 -8.70446,0.088 -10.60383,-3.7564 -2.23835,-4.5307 -0.007,-10.0387 4.45564,-12.1814 5.15279,-2.4737 11.37401,0.073 13.75897,5.1549 2.70995,5.7744 -0.15311,12.7099 -5.85416,15.3366 -6.39571,2.9467 -14.04614,-0.2331 -16.91411,-6.5534 -3.18399,-7.0168 0.31286,-15.3828 7.25268,-18.4917 7.63771,-3.4216 16.71966,0.3925 20.06925,7.9519 1.95428,4.4105 1.77359,9.5706 -0.40101,13.8668" />
+    </g>
+    <g
+       id="g4282"
+       clip-path="url(#clipPath4298)"
+       inkscape:export-filename="/home/georg/Software/Entwicklung/Android/GOToolSet/app/src/main/res/drawable/type_logo.png"
+       inkscape:export-xdpi="360"
+       inkscape:export-ydpi="360"
+       transform="translate(60,-12.000023)">
+      <circle
+         r="24"
+         cy="1356.3622"
+         cx="136"
+         id="path4243"
+         style="opacity:1;fill:#888a85;fill-opacity:1;stroke:none;stroke-width:12;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.99607843" />
+      <path
+         d="m 136,1332.3622 a 24,24 0 0 1 12,3.2154 l -12,20.7846 z"
+         sodipodi:end="5.2359878"
+         sodipodi:start="4.712389"
+         sodipodi:ry="24"
+         sodipodi:rx="24"
+         sodipodi:cy="1356.3622"
+         sodipodi:cx="136"
+         sodipodi:type="arc"
+         style="opacity:1;fill:#e9b96e;fill-opacity:1;stroke:none;stroke-width:12;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.99607843"
+         id="circle4259" />
+      <path
+         id="path4261"
+         style="opacity:1;fill:#ad7fa8;fill-opacity:1;stroke:none;stroke-width:12;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.99607843"
+         sodipodi:type="arc"
+         sodipodi:cx="136"
+         sodipodi:cy="1356.3622"
+         sodipodi:rx="24"
+         sodipodi:ry="24"
+         sodipodi:start="5.2359878"
+         sodipodi:end="5.7595865"
+         d="m 148,1335.5776 a 24,24 0 0 1 8.78461,8.7846 l -20.78461,12 z" />
+      <path
+         d="m 156.78461,1344.3622 a 24,24 0 0 1 3.21539,12 h -24 z"
+         sodipodi:end="0"
+         sodipodi:start="5.7595865"
+         sodipodi:ry="24"
+         sodipodi:rx="24"
+         sodipodi:cy="1356.3622"
+         sodipodi:cx="136"
+         sodipodi:type="arc"
+         style="opacity:1;fill:#c17d11;fill-opacity:1;stroke:none;stroke-width:12;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.99607843"
+         id="path4263" />
+      <path
+         id="path4265"
+         style="opacity:1;fill:#8ae234;fill-opacity:1;stroke:none;stroke-width:12;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.99607843"
+         sodipodi:type="arc"
+         sodipodi:cx="136"
+         sodipodi:cy="1356.3622"
+         sodipodi:rx="24"
+         sodipodi:ry="24"
+         sodipodi:start="0"
+         sodipodi:end="0.52359878"
+         d="m 160,1356.3622 a 24,24 0 0 1 -3.21539,12 l -20.78461,-12 z" />
+      <path
+         d="M 156.78461,1368.3622 A 24,24 0 0 1 148,1377.1468 l -12,-20.7846 z"
+         sodipodi:end="1.0471976"
+         sodipodi:start="0.52359878"
+         sodipodi:ry="24"
+         sodipodi:rx="24"
+         sodipodi:cy="1356.3622"
+         sodipodi:cx="136"
+         sodipodi:type="arc"
+         style="opacity:1;fill:#729fcf;fill-opacity:1;stroke:none;stroke-width:12;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.99607843"
+         id="path4267" />
+      <path
+         id="path4270"
+         style="opacity:1;fill:#cc0000;fill-opacity:1;stroke:none;stroke-width:12;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.99607843"
+         sodipodi:type="arc"
+         sodipodi:cx="136"
+         sodipodi:cy="1356.3622"
+         sodipodi:rx="24"
+         sodipodi:ry="24"
+         sodipodi:start="1.0471976"
+         sodipodi:end="1.5707963"
+         d="m 148,1377.1468 a 24,24 0 0 1 -12,3.2154 l 0,-24 z" />
+      <path
+         d="m 136,1380.3622 a 24,24 0 0 1 -12,-3.2154 l 12,-20.7846 z"
+         sodipodi:end="2.0943951"
+         sodipodi:start="1.5707963"
+         sodipodi:ry="24"
+         sodipodi:rx="24"
+         sodipodi:cy="1356.3622"
+         sodipodi:cx="136"
+         sodipodi:type="arc"
+         style="opacity:1;fill:#3465a4;fill-opacity:1;stroke:none;stroke-width:12;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.99607843"
+         id="path4272" />
+      <path
+         id="path4274"
+         style="opacity:1;fill:#ffe300;fill-opacity:1;stroke:none;stroke-width:12;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.99607843"
+         sodipodi:type="arc"
+         sodipodi:cx="136"
+         sodipodi:cy="1356.3622"
+         sodipodi:rx="24"
+         sodipodi:ry="24"
+         sodipodi:start="2.0943951"
+         sodipodi:end="2.6179939"
+         d="m 124,1377.1468 a 24,24 0 0 1 -8.78461,-8.7846 l 20.78461,-12 z" />
+      <path
+         d="m 115.21539,1368.3622 a 24,24 0 0 1 -3.21539,-12 l 24,0 z"
+         sodipodi:end="3.1415927"
+         sodipodi:start="2.6179939"
+         sodipodi:ry="24"
+         sodipodi:rx="24"
+         sodipodi:cy="1356.3622"
+         sodipodi:cx="136"
+         sodipodi:type="arc"
+         style="opacity:1;fill:#ff76f6;fill-opacity:1;stroke:none;stroke-width:12;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.99607843"
+         id="path4276" />
+      <path
+         id="path4278"
+         style="opacity:1;fill:#4e9a06;fill-opacity:1;stroke:none;stroke-width:12;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.99607843"
+         sodipodi:type="arc"
+         sodipodi:cx="136"
+         sodipodi:cy="1356.3622"
+         sodipodi:rx="24"
+         sodipodi:ry="24"
+         sodipodi:start="3.1415927"
+         sodipodi:end="3.6651914"
+         d="m 112,1356.3622 a 24,24 0 0 1 3.21539,-12 l 20.78461,12 z" />
+      <path
+         d="M 115.21539,1344.3622 A 24,24 0 0 1 124,1335.5776 l 12,20.7846 z"
+         sodipodi:end="4.1887902"
+         sodipodi:start="3.6651914"
+         sodipodi:ry="24"
+         sodipodi:rx="24"
+         sodipodi:cy="1356.3622"
+         sodipodi:cx="136"
+         sodipodi:type="arc"
+         style="opacity:1;fill:#5c3566;fill-opacity:1;stroke:none;stroke-width:12;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.99607843"
+         id="path4280" />
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="258.12994"
+       y="1356.3699"
+       id="text4304"
+       inkscape:export-filename="/home/georg/Software/Entwicklung/Android/GOToolSet/app/src/main/res/drawable/type_logo.png"
+       inkscape:export-xdpi="360"
+       inkscape:export-ydpi="360"><tspan
+         sodipodi:role="line"
+         id="tspan4306"
+         x="258.12994"
+         y="1356.3699"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;fill:#555753"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:20px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Medium';fill:#555753"
+           id="tspan4308">TYPE</tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:20px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Light';fill:#555753"
+           id="tspan4310">guide</tspan></tspan></text>
+    <rect
+       inkscape:export-ydpi="384"
+       inkscape:export-xdpi="384"
+       inkscape:export-filename="/home/georg/Entwicklung/Android/gotoolset/app/src/main/res/drawable/dex_logo.png"
+       y="1364.3622"
+       x="180"
+       height="31.999977"
+       width="180"
+       id="rect4312"
+       style="opacity:1;fill:#eeeeec;fill-opacity:1;stroke:none;stroke-width:12;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.99607843" />
+    <text
+       inkscape:export-ydpi="360"
+       inkscape:export-xdpi="360"
+       inkscape:export-filename="/home/georg/Software/Entwicklung/Android/GOToolSet/app/src/main/res/drawable/iv_logo.png"
+       id="text4341"
+       y="1392.3597"
+       x="254.88367"
+       style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;fill:#555753"
+         y="1392.3597"
+         x="254.88367"
+         id="tspan4343"
+         sodipodi:role="line"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Medium'"
+           id="tspan4634">POKE</tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Light'"
+           id="tspan4632">index</tspan></tspan></text>
+    <rect
+       style="opacity:1;fill:#3465a4;fill-opacity:1;stroke:none;stroke-width:12;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.99607843"
+       id="rect4355"
+       width="32"
+       height="32"
+       x="180"
+       y="1364.3622"
+       inkscape:export-filename="/home/georg/Software/Entwicklung/Android/GOToolSet/app/src/main/res/drawable/iv_logo.png"
+       inkscape:export-xdpi="360"
+       inkscape:export-ydpi="360" />
+    <rect
+       style="opacity:1;fill:#a40000;fill-opacity:0.99607843;stroke:none;stroke-width:4.42675829;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.99607843"
+       id="rect4272"
+       width="179.57324"
+       height="94.5345"
+       x="180.42676"
+       y="1229.8276"
+       rx="0"
+       ry="0"
+       inkscape:export-filename="/home/georg/Entwicklung/Android/gotoolset/app/src/main/res/drawable/logo.png"
+       inkscape:export-xdpi="384.91"
+       inkscape:export-ydpi="384.91" />
+    <text
+       id="text4179-3"
+       y="1252.8585"
+       x="184.68056"
+       style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"
+       inkscape:export-filename="/home/georg/Software/Entwicklung/Android/GOToolSet/app/src/main/res/drawable/type_guide_logo.png"
+       inkscape:export-xdpi="90.000008"
+       inkscape:export-ydpi="90.000008"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:22.5px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Medium';fill:#ffffff"
+         id="tspan4181-6"
+         y="1252.8585"
+         x="184.68056"
+         sodipodi:role="line">POKE<tspan
+   style="-inkscape-font-specification:'Ubuntu Light';font-family:Ubuntu;font-weight:300;font-style:normal;font-stretch:normal;font-variant:normal"
+   id="tspan4630">toolset</tspan></tspan></text>
+    <g
+       id="g4299"
+       transform="translate(-3.11628,-2.00004)">
+      <path
+         inkscape:connector-curvature="0"
+         style="opacity:0.2;fill:#000000;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 355.69019,1289.5433 -23.38058,13.0932 -12.1579,0 -7.48179,-3.7409 -12.15791,-0.9352 11.0834,11.0833 -1.73116,3.1788 23.14678,23.1468 24.54961,0 c 2.07246,0 3.74089,-1.6684 3.74089,-3.7409 l 15.1401,-20.8241 z"
+         id="path4295"
+         sodipodi:nodetypes="ccccccccsscc" />
+      <path
+         style="opacity:1;fill:#ffffff;fill-opacity:0.99607843;stroke:none;stroke-width:8;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         d="m 343.80491,1277.1448 -6.87809,6.8776 6.38673,6.3868 -6.89133,6.8913 4.94645,4.8789 6.85754,-6.8576 1.47408,1.4741 6.87763,6.8776 0.98272,-0.9827 -0.98272,-12.773 z m -37.97884,6.3114 c -0.96656,0.01 -1.9317,0.1388 -2.82987,0.3795 l 5.09943,5.0994 -4.91266,4.9131 -5.09715,-5.0972 c -0.76981,2.8731 -0.44203,6.4296 1.6581,8.5358 2.37889,2.3789 5.83675,3.0171 8.79741,1.9197 l 2.97326,2.9729 4.94645,-4.8789 -3.00659,-3.0066 c 1.09729,-2.9606 0.45911,-6.4185 -1.91977,-8.7974 -1.44804,-1.445 -3.58218,-2.0523 -5.70861,-2.0403 z m 20.61556,12.2318 c -9.20902,0 -16.67448,7.4653 -16.67465,16.6742 l 9.72714,0 c 1.2e-4,-3.8369 3.11055,-6.9474 6.94751,-6.9474 3.83696,0 6.94739,3.1105 6.9475,6.9474 l 9.72715,0 c -1.7e-4,-9.2089 -7.46564,-16.6742 -16.67465,-16.6742 z m 0,11.1163 c -3.06967,0 -5.55823,2.4883 -5.55837,5.5579 -1.1e-4,3.0699 2.48852,5.5586 5.55837,5.5584 3.06985,2e-4 5.55847,-2.4885 5.55837,-5.5584 -1.4e-4,-3.0696 -2.48871,-5.5579 -5.55837,-5.5579 z"
+         id="path4297"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cccccccccccsccccccccccsccccccccscsc" />
+    </g>
+    <rect
+       style="opacity:1;fill:#eeeeec;fill-opacity:1;stroke:none;stroke-width:12;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.99607843"
+       id="rect4303"
+       width="180"
+       height="15.999977"
+       x="180"
+       y="1400.3622"
+       inkscape:export-filename="/home/georg/Software/Entwicklung/Android/GOToolSet/app/src/main/res/drawable/about_logo.png"
+       inkscape:export-xdpi="360"
+       inkscape:export-ydpi="360" />
+    <rect
+       style="opacity:1;fill:#888a85;fill-opacity:0.99607843;stroke:none;stroke-width:12;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.99607843"
+       id="rect4305"
+       width="32"
+       height="16"
+       x="180"
+       y="1400.3622" />
+    <ellipse
+       style="opacity:1;fill:#d3d7cf;fill-opacity:0.99607843;stroke:none;stroke-width:12;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.99607843"
+       id="path4307"
+       cx="196"
+       cy="1408.3622"
+       rx="8"
+       ry="7" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#555753;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="194.44341"
+       y="1412.9084"
+       id="text4309"><tspan
+         sodipodi:role="line"
+         id="tspan4311"
+         x="194.44341"
+         y="1412.9084"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.35387039px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;fill:#555753">i</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="323.2417"
+       y="1413.3887"
+       id="text4313"
+       inkscape:export-filename="/home/georg/Software/Entwicklung/Android/GOToolSet/app/src/main/res/drawable/iv_logo.png"
+       inkscape:export-xdpi="360"
+       inkscape:export-ydpi="360"><tspan
+         sodipodi:role="line"
+         id="tspan4315"
+         x="323.2417"
+         y="1413.3887"
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:12.5px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Light';fill:#555753">about</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="233.00647"
+       y="1384.964"
+       id="text4474"><tspan
+         sodipodi:role="line"
+         id="tspan4476"
+         x="233.00647"
+         y="1384.964"
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:9.40885544px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Light';fill:#a40000">BETA</tspan></text>
+    <rect
+       inkscape:export-ydpi="360"
+       inkscape:export-xdpi="360"
+       inkscape:export-filename="/home/georg/Software/Entwicklung/Android/GOToolSet/app/src/main/res/drawable/iv_logo.png"
+       y="1366.3622"
+       x="182.00002"
+       height="27.999985"
+       width="27.999985"
+       id="rect4636"
+       style="opacity:1;fill:#eeeeec;fill-opacity:1;stroke:none;stroke-width:10.49999428;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.99607843"
+       ry="3.9999774"
+       rx="4" />
+    <rect
+       style="opacity:1;fill:#888a85;fill-opacity:1;stroke:none;stroke-width:75.59055328;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect4638"
+       width="12"
+       height="12"
+       x="184"
+       y="1368.3622" />
+    <rect
+       style="opacity:1;fill:#888a85;fill-opacity:1;stroke:none;stroke-width:75.59055328;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect4640"
+       width="8"
+       height="1.9999774"
+       x="200"
+       y="1368.3622" />
+    <rect
+       style="opacity:1;fill:#888a85;fill-opacity:1;stroke:none;stroke-width:75.59055328;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect4642"
+       width="8"
+       height="1.9999774"
+       x="200"
+       y="1376.3622" />
+    <rect
+       style="opacity:1;fill:#888a85;fill-opacity:1;stroke:none;stroke-width:75.59055328;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect4644"
+       width="24"
+       height="2"
+       x="184"
+       y="1382.3622" />
+    <rect
+       style="opacity:1;fill:#888a85;fill-opacity:1;stroke:none;stroke-width:75.59055328;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect4646"
+       width="14"
+       height="2"
+       x="184"
+       y="1386.3622" />
+    <rect
+       style="opacity:1;fill:#888a85;fill-opacity:1;stroke:none;stroke-width:75.59055328;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect4650"
+       width="18"
+       height="2"
+       x="184"
+       y="1390.3622" />
+    <rect
+       y="1372.3622"
+       x="200"
+       height="1.9999774"
+       width="8"
+       id="rect4652"
+       style="opacity:1;fill:#888a85;fill-opacity:1;stroke:none;stroke-width:75.59055328;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+  </g>
+</svg>
